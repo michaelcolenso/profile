@@ -1,28 +1,99 @@
----
-layout: default
-title: blog
----
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>blog</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="stylesheet" href="//brick.a.ssl.fastly.net/Latin+Modern+Mono:400/Libre+Caslon+Display:400">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
-<div class="col-md-2">
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="wrapper">
+            <div class="header navbar">
+                <div class="container">
+                  <div class="row">
+
+                    <div class="col-md-4 col-sm-4 col-xs-4">
+                      <h5 class="header-logo"><a href="/">colenso</a></h5>
+                    </div>
+
+
+                    <div class="col-md-4 col-sm-4 col-xs-8">
+                        <ul class="header-navigation list-inline">
+  <li class="col-md-3"><a class="" href="/about">who</a></li>
+  <li class="col-md-3"><a class="" href="/projects">what</a></li>
+  <li class="col-md-3"><a class="" href="/blog">words</a></li>
+</ul>
+
+                    </div>
+
+                    <div class="col-md-4 col-sm-4">
+                        <ul class="header-social list-inline">
+  <li><a href="http://twitter.com/michaelcolenso" class="fa fa-twitter" target="_blank"></a></li>
+  <li><a href="http://github.com/michaelcolenso" class="fa fa-github" target="_blank"></a></li>
+  <li><a href="http://www.linkedin.com/in/michaelcolenso" class="fa fa-linkedin" target="_blank"></a></li>
+</ul>
+
+                    </div>
+
+                  </div>
+
+                </div>
+          </div>
+          <div class="col-md-12 col-lg-12 area">
+              
+                <div class="col-md-2">
   <div class="sidebar">
-    <h3>{% include tagline.html%}</h3>
+    <h3><span class="light">Michael Colenso oscillates wildly<sup><a id="tweeter" href="https://twitter.com/michaelcolenso/status/342509887609257984" tabindex="0" data-toggle="popover" data-placement="top" target="_blank" data-html="true" data-trigger="hover">(1)</a></sup> between feeling like a complete </span><span class="idiot">idiot</span><span class="light"> and an utter </span>genius<span class="light"> in his current role as a professional software </span><a href="http://github.com/michaelcolenso"> developer</a><span class="light"> and <a href="http://resume.colenso.org/">loves it.</a></span>
+</h3>
   </div>
   </div>
 <div class="col-md-offset-1 col-md-8">
   <div class="posts">
-    {% for post in site.posts %}
-          <a href="{{ post.url }}" class="article-link">
-            {% if post.hero %}
-              <img class="banner" src="/images/{{post.image}}.jpg" title="{{ post.title }}" />
-            {% endif %}
+    
+          <a href="/blog/blog-the-words.html" class="article-link">
+            
+              <img class="banner" src="/images/.jpg" title="blog more words" />
+            
             <ul class="list-unstyled article-link-details">
-              <li class="article-link-title">{{ post.title }}</li>
-              {% if post.tagline %}
-                <li class="article-link-tagline">{{post.tagline}}</li>
-                {% else %}
-                <li class="article-link-date">{{ post.date }}</li>
-              {% endif %}
+              <li class="article-link-title">blog more words</li>
+              
+                <li class="article-link-tagline">words are tools for fools</li>
+                
             </ul>
-          </a>{% endfor %}
+          </a>
+          <a href="/blog/blog-more-words.html" class="article-link">
+            
+              <img class="banner" src="/images/.jpg" title="blog the words" />
+            
+            <ul class="list-unstyled article-link-details">
+              <li class="article-link-title">blog the words</li>
+              
+                <li class="article-link-tagline">words are powerful tools</li>
+                
+            </ul>
+          </a>
+          <a href="/blog/welcome-to-jekyll.html" class="article-link">
+            
+            <ul class="list-unstyled article-link-details">
+              <li class="article-link-title">Welcome to Jekyll!</li>
+              
+                <li class="article-link-date">2014-04-20 02:11:03 -0700</li>
+              
+            </ul>
+          </a>
   </div>
 </div>
+
+              
+            </div>
+        </div>
+
+    </body>
+</html>
