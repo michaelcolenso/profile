@@ -1,0 +1,30 @@
+---
+title: Projects and Shit
+layout: default
+permalink: /projects/
+---
+
+<div class="col-md-2">
+  <div class="sidebar">
+    <h3>{% include tagline.html %}</h3>
+  </div>
+</div>
+<div class="col-md-offset-1 col-md-9">
+
+  <div class="projects">
+    <h2>I make fancy maps.</h2>
+    <div class="row">
+      {% for project in site.projects %}
+            <div class="col-md-6 col-sm-6">
+              <a href="{{project.url}}" class="project">
+                <div class="project-image">
+                  <img class="img-responsive" src="{{project.image}}" title="{{ project.title }}" %}
+                  <div class="project-tagline">{{ project.tagline }}</div>
+                </div>
+                <h2 class="project-title">{{ project.title }}</h2>
+              </a>
+            </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

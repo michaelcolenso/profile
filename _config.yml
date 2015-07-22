@@ -1,4 +1,11 @@
-name: Your New Jekyll Site
+name: michaelcolenso
 markdown: redcarpet
 highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+sass:
+  sass_dir: _scss
+permalink: none

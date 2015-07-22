@@ -1,0 +1,41 @@
+body
+  background: $base-background-color
+  color: $base-text-color
+  @extend %type-body
+  min-width: 320px
+
+.wrapper
+  padding: 1%
+  
+h1, h2, h3, h4, h5, h6
+  font-weight: normal
+  font-family: inherit
+  color: inherit
+  padding: 0
+  @extend %type-heading
+
+.hero-strapline
+  margin-bottom: 0em
+
+p
+  &.last
+    margin-bottom: 0
+
+a
+  transition: color 0.3s, border-bottom-color 0.3s
+  &:hover
+    text-decoration: none
+
+// hide flash of unstyled text
+html
+  body
+    opacity: 1
+  &.wf-loading
+    body
+      opacity: 0
+
+.media
+  a
+    min-width: 100px
+    max-width: 100px
+    

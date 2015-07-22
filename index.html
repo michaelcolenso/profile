@@ -1,13 +1,26 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: handsome
 ---
-
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="col-md-offset-3 col-md-9">
+  <div class="heading">
+    <ul class="list-unstyled meta-header">
+      <li><h1 class="meta-title">{{page.title}}</h1><li>
+      {% if page.tagline != null %}
+        <li class="meta-tagline">{{ page.tagline }}</li>
+      {% endif %}
+    </ul>
+  </div>
 </div>
+<div class="col-md-2">
+  <div class="sidebar">
+    <p>{% include tagline.html %}</p>
+  </div>
+</div>
+
+
+  <div class="col-md-offset-1 col-md-8">
+    <div class="content">
+      {{ content }}
+    </div>
+  </div>

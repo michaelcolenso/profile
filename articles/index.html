@@ -1,0 +1,28 @@
+---
+layout: default
+title: blog
+---
+
+<div class="col-md-2">
+  <div class="sidebar">
+    <h3>{% include tagline.html%}</h3>
+  </div>
+  </div>
+<div class="col-md-offset-1 col-md-8">
+  <div class="posts">
+    {% for post in site.posts %}
+          <a href="{{ post.url }}" class="article-link">
+            {% if post.hero %}
+              <img class="banner" src="/images/{{post.image}}.jpg" title="{{ post.title }}" />
+            {% endif %}
+            <ul class="list-unstyled article-link-details">
+              <li class="article-link-title">{{ post.title }}</li>
+              {% if post.tagline %}
+                <li class="article-link-tagline">{{post.tagline}}</li>
+                {% else %}
+                <li class="article-link-date">{{ post.date }}</li>
+              {% endif %}
+            </ul>
+          </a>{% endfor %}
+  </div>
+</div>
