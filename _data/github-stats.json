@@ -1,0 +1,147 @@
+{
+  "lastUpdated": "2025-11-08T02:43:59.036Z",
+  "user": {
+    "login": "michaelcolenso",
+    "name": "michael colenso",
+    "bio": "enthusiastic participant.",
+    "location": "Seattle, WA",
+    "followers": 24,
+    "following": 43,
+    "publicRepos": 134,
+    "publicGists": 70,
+    "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
+    "profileUrl": "https://github.com/michaelcolenso",
+    "createdAt": "2011-05-10T05:16:25Z"
+  },
+  "repos": {
+    "total": 134,
+    "totalStars": 79,
+    "totalForks": 2,
+    "totalSize": 2722561,
+    "topLanguages": [
+      {
+        "name": "JavaScript",
+        "count": 48,
+        "percentage": "35.8"
+      },
+      {
+        "name": "Ruby",
+        "count": 15,
+        "percentage": "11.2"
+      },
+      {
+        "name": "Python",
+        "count": 9,
+        "percentage": "6.7"
+      },
+      {
+        "name": "HTML",
+        "count": 8,
+        "percentage": "6.0"
+      },
+      {
+        "name": "Svelte",
+        "count": 5,
+        "percentage": "3.7"
+      }
+    ],
+    "featured": [
+      {
+        "name": "tcplatmap",
+        "description": "a plat map for Traverse City, Michigan built with d3.js.",
+        "url": "https://github.com/michaelcolenso/tcplatmap",
+        "stars": 12,
+        "forks": 2,
+        "language": "JavaScript",
+        "updated": "2024-01-01T10:46:42Z",
+        "topics": []
+      },
+      {
+        "name": "1033-Program-Map",
+        "description": "Map and Vis of the 1033 Program",
+        "url": "https://github.com/michaelcolenso/1033-Program-Map",
+        "stars": 2,
+        "forks": 0,
+        "language": "JavaScript",
+        "updated": "2025-11-05T03:08:01Z",
+        "topics": []
+      },
+      {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2025-11-08T02:43:52Z",
+        "topics": []
+      },
+      {
+        "name": "metatron",
+        "description": "An intelligent photography portfolio system that combines advanced AI models for comprehensive image analysis, curation, and portfolio optimization. METATRON helps photographers elevate their work through:",
+        "url": "https://github.com/michaelcolenso/metatron",
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "updated": "2025-11-05T05:51:19Z",
+        "topics": []
+      },
+      {
+        "name": "chet-lemon",
+        "description": "photolog",
+        "url": "https://github.com/michaelcolenso/chet-lemon",
+        "stars": 0,
+        "forks": 0,
+        "language": "Shell",
+        "updated": "2025-11-04T15:01:02Z",
+        "topics": []
+      },
+      {
+        "name": "hyperionic",
+        "description": "Hyperion is the Greek Titan of light and observation.",
+        "url": "https://github.com/michaelcolenso/hyperionic",
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "updated": "2025-01-08T07:08:40Z",
+        "topics": []
+      }
+    ]
+  },
+  "contributions": {
+    "thisYear": 152,
+    "total": 760
+  },
+  "recentActivity": [
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/profile",
+      "created": "2025-11-08T02:43:48Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/profile",
+      "created": "2025-11-08T02:43:30Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/profile",
+      "created": "2025-11-08T02:42:42Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "DeleteEvent",
+      "repo": "michaelcolenso/photography",
+      "created": "2025-11-06T08:34:43Z",
+      "action": "DeleteEvent"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "rampatra/photography",
+      "created": "2025-11-06T08:34:04Z",
+      "action": "closed pull request"
+    }
+  ]
+}
