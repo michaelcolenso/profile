@@ -1,0 +1,39 @@
+<!-- GitHub Stats from Auto-Generated Data -->
+{% if site.data.github-stats %}
+<div class="github-data-stats">
+  <div class="data-highlight">
+    <h3>📊 Auto-Updated Stats</h3>
+    <p class="last-updated">Last updated: {{ site.data.github-stats.lastUpdated | date: "%B %d, %Y at %H:%M UTC" }}</p>
+
+    <div class="quick-stats">
+      <div class="quick-stat">
+        <strong>{{ site.data.github-stats.user.publicRepos }}</strong>
+        <span>Public Repositories</span>
+      </div>
+      <div class="quick-stat">
+        <strong>{{ site.data.github-stats.repos.totalStars }}</strong>
+        <span>Total Stars Received</span>
+      </div>
+      <div class="quick-stat">
+        <strong>{{ site.data.github-stats.user.followers }}</strong>
+        <span>Followers</span>
+      </div>
+    </div>
+
+    {% if site.data.github-stats.recentActivity.size > 0 %}
+    <div class="recent-activity-data">
+      <h4>Recent Activity</h4>
+      <ul class="activity-list">
+        {% for activity in site.data.github-stats.recentActivity limit:5 %}
+        <li>
+          <span class="activity-icon">{{ activity.type | replace: 'Event', '' | slice: 0 }}</span>
+          <span class="activity-text">{{ activity.action }} in <strong>{{ activity.repo }}</strong></span>
+          <span class="activity-time">{{ activity.created | date: "%b %d" }}</span>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+</div>
+{% endif %}
