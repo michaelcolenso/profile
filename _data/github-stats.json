@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-09T00:24:53.990Z",
+  "lastUpdated": "2025-11-09T06:07:52.090Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 134,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2722451,
+    "totalSize": 2722452,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -73,7 +73,7 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2025-11-08T18:07:13Z",
+        "updated": "2025-11-09T00:24:58Z",
         "topics": []
       },
       {
@@ -109,10 +109,16 @@
     ]
   },
   "contributions": {
-    "thisYear": 154,
-    "total": 770
+    "thisYear": 156,
+    "total": 780
   },
   "recentActivity": [
+    {
+      "type": "PullRequestReviewEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2025-11-09T02:22:18Z",
+      "action": "Reviewed pull request"
+    },
     {
       "type": "CreateEvent",
       "repo": "michaelcolenso/mikepage",
@@ -136,12 +142,6 @@
       "repo": "michaelcolenso/profile",
       "created": "2025-11-08T02:42:42Z",
       "action": "Created branch"
-    },
-    {
-      "type": "DeleteEvent",
-      "repo": "michaelcolenso/photography",
-      "created": "2025-11-06T08:34:43Z",
-      "action": "DeleteEvent"
     }
   ]
 }
