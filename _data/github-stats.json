@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-18T00:23:24.122Z",
+  "lastUpdated": "2025-11-18T06:08:26.520Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,27 +7,27 @@
     "location": "Seattle, WA",
     "followers": 25,
     "following": 43,
-    "publicRepos": 134,
+    "publicRepos": 135,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 134,
+    "total": 135,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2725770,
+    "totalSize": 2725806,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "35.8"
+        "percentage": "35.6"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "11.2"
+        "percentage": "11.1"
       },
       {
         "name": "HTML",
@@ -67,13 +67,23 @@
         "topics": []
       },
       {
+        "name": "Refract",
+        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
+        "url": "https://github.com/michaelcolenso/Refract",
+        "stars": 0,
+        "forks": 0,
+        "language": null,
+        "updated": "2025-11-18T03:23:49Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2025-11-17T18:07:06Z",
+        "updated": "2025-11-18T00:23:28Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "JavaScript",
         "updated": "2025-11-05T05:51:19Z",
         "topics": []
-      },
-      {
-        "name": "hyperionic",
-        "description": "Hyperion is the Greek Titan of light and observation.",
-        "url": "https://github.com/michaelcolenso/hyperionic",
-        "stars": 0,
-        "forks": 0,
-        "language": "JavaScript",
-        "updated": "2025-01-08T07:08:40Z",
-        "topics": []
       }
     ]
   },
@@ -113,6 +113,18 @@
     "total": 1000
   },
   "recentActivity": [
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2025-11-18T03:35:04Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2025-11-18T03:23:46Z",
+      "action": "Created branch"
+    },
     {
       "type": "WatchEvent",
       "repo": "ubikron/Awesome-AI-OSINT",
@@ -129,18 +141,6 @@
       "type": "PushEvent",
       "repo": "michaelcolenso/chet-lemon",
       "created": "2025-11-10T02:50:08Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/chet-lemon",
-      "created": "2025-11-10T02:49:39Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/chet-lemon",
-      "created": "2025-11-10T02:46:28Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
