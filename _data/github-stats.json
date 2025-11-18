@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-18T12:09:50.483Z",
+  "lastUpdated": "2025-11-18T18:08:24.627Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 135,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2725807,
+    "totalSize": 2734024,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -30,12 +30,12 @@
         "percentage": "11.1"
       },
       {
-        "name": "HTML",
-        "count": 9,
-        "percentage": "6.7"
+        "name": "Python",
+        "count": 10,
+        "percentage": "7.4"
       },
       {
-        "name": "Python",
+        "name": "HTML",
         "count": 9,
         "percentage": "6.7"
       },
@@ -67,23 +67,23 @@
         "topics": []
       },
       {
+        "name": "Refract",
+        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
+        "url": "https://github.com/michaelcolenso/Refract",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "updated": "2025-11-18T14:48:31Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2025-11-18T06:08:30Z",
-        "topics": []
-      },
-      {
-        "name": "Refract",
-        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
-        "url": "https://github.com/michaelcolenso/Refract",
-        "stars": 0,
-        "forks": 0,
-        "language": null,
-        "updated": "2025-11-18T03:23:49Z",
+        "updated": "2025-11-18T12:09:54Z",
         "topics": []
       },
       {
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2025-11-18T14:48:28Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2025-11-18T14:40:52Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2025-11-18T14:35:46Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2025-11-18T14:35:30Z",
+      "action": "opened pull request"
+    },
+    {
       "type": "CreateEvent",
       "repo": "michaelcolenso/Refract",
       "created": "2025-11-18T03:35:04Z",
       "action": "Created branch"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2025-11-18T03:23:46Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "ubikron/Awesome-AI-OSINT",
-      "created": "2025-11-15T04:23:49Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/chet-lemon",
-      "created": "2025-11-10T02:50:20Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/chet-lemon",
-      "created": "2025-11-10T02:50:08Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
