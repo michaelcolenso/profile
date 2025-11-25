@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-25T00:22:06.645Z",
+  "lastUpdated": "2025-11-25T06:08:51.570Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 135,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2736205,
+    "totalSize": 2736207,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -67,6 +67,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2025-11-25T00:22:10Z",
+        "topics": []
+      },
+      {
         "name": "argus",
         "description": "you should curate that stuff bro",
         "url": "https://github.com/michaelcolenso/argus",
@@ -74,16 +84,6 @@
         "forks": 0,
         "language": "HTML",
         "updated": "2025-11-24T19:59:16Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2025-11-24T18:08:23Z",
         "topics": []
       },
       {
