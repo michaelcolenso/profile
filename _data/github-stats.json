@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-11-24T18:08:19.118Z",
+  "lastUpdated": "2025-11-25T00:22:06.645Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 135,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2736194,
+    "totalSize": 2736205,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -67,13 +67,23 @@
         "topics": []
       },
       {
+        "name": "argus",
+        "description": "you should curate that stuff bro",
+        "url": "https://github.com/michaelcolenso/argus",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2025-11-24T19:59:16Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2025-11-24T12:09:55Z",
+        "updated": "2025-11-24T18:08:23Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "HTML",
         "updated": "2025-11-10T02:50:23Z",
         "topics": []
-      },
-      {
-        "name": "metatron",
-        "description": "An intelligent photography portfolio system that combines advanced AI models for comprehensive image analysis, curation, and portfolio optimization. METATRON helps photographers elevate their work through:",
-        "url": "https://github.com/michaelcolenso/metatron",
-        "stars": 0,
-        "forks": 0,
-        "language": "JavaScript",
-        "updated": "2025-11-05T05:51:19Z",
-        "topics": []
       }
     ]
   },
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "WatchEvent",
-      "repo": "Arindam200/awesome-ai-apps",
-      "created": "2025-11-24T04:57:07Z",
-      "action": "Starred repository"
+      "type": "PushEvent",
+      "repo": "michaelcolenso/argus",
+      "created": "2025-11-24T19:59:13Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/argus",
+      "created": "2025-11-24T19:58:49Z",
+      "action": "labeled pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/argus",
+      "created": "2025-11-24T19:58:48Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/argus",
+      "created": "2025-11-24T19:58:49Z",
+      "action": "opened pull request"
     },
     {
       "type": "CreateEvent",
-      "repo": "michaelcolenso/photography",
-      "created": "2025-11-21T20:50:05Z",
+      "repo": "michaelcolenso/argus",
+      "created": "2025-11-24T19:58:47Z",
       "action": "Created branch"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2025-11-21T16:19:27Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2025-11-21T09:34:00Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2025-11-18T14:48:28Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
