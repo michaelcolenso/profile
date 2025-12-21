@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-21T12:09:15.596Z",
+  "lastUpdated": "2025-12-21T18:07:42.748Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 135,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2736352,
+    "totalSize": 2736354,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,13 +77,23 @@
         "topics": []
       },
       {
+        "name": "chet-lemon",
+        "description": "photolog",
+        "url": "https://github.com/michaelcolenso/chet-lemon",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2025-12-21T13:14:14Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2025-12-21T06:08:17Z",
+        "updated": "2025-12-21T12:09:19Z",
         "topics": []
       },
       {
@@ -95,24 +105,26 @@
         "language": "Python",
         "updated": "2025-12-20T09:05:19Z",
         "topics": []
-      },
-      {
-        "name": "argus",
-        "description": "you should curate that stuff bro",
-        "url": "https://github.com/michaelcolenso/argus",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2025-11-24T19:59:16Z",
-        "topics": []
       }
     ]
   },
   "contributions": {
-    "thisYear": 56,
-    "total": 280
+    "thisYear": 58,
+    "total": 290
   },
   "recentActivity": [
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/chet-lemon",
+      "created": "2025-12-21T13:14:12Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/chet-lemon",
+      "created": "2025-12-21T13:14:10Z",
+      "action": "merged pull request"
+    },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/chet-lemon",
@@ -130,18 +142,6 @@
       "repo": "michaelcolenso/chet-lemon",
       "created": "2025-12-21T09:58:09Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/chet-lemon",
-      "created": "2025-12-21T09:58:07Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/michaelcolenso",
-      "created": "2025-12-21T01:08:32Z",
-      "action": "Created branch"
     }
   ]
 }
