@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-24T18:08:21.868Z",
+  "lastUpdated": "2025-12-25T00:24:25.434Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 135,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2740072,
+    "totalSize": 2740076,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -73,7 +73,7 @@
         "stars": 1,
         "forks": 0,
         "language": "Astro",
-        "updated": "2025-12-21T01:03:21Z",
+        "updated": "2025-12-24T22:36:45Z",
         "topics": []
       },
       {
@@ -83,7 +83,7 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2025-12-24T12:10:06Z",
+        "updated": "2025-12-24T18:08:25Z",
         "topics": []
       },
       {
@@ -109,38 +109,38 @@
     ]
   },
   "contributions": {
-    "thisYear": 64,
-    "total": 320
+    "thisYear": 72,
+    "total": 360
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/michaelcolenso",
+      "created": "2025-12-24T22:36:42Z",
+      "action": "merged pull request"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2025-12-21T21:27:41Z",
+      "repo": "michaelcolenso/michaelcolenso",
+      "created": "2025-12-24T22:36:42Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2025-12-21T21:27:40Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2025-12-21T21:27:05Z",
+      "repo": "michaelcolenso/michaelcolenso",
+      "created": "2025-12-24T22:36:22Z",
       "action": "opened pull request"
     },
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2025-12-21T21:20:13Z",
-      "action": "Created branch"
+      "type": "PushEvent",
+      "repo": "michaelcolenso/michaelcolenso",
+      "created": "2025-12-24T22:35:39Z",
+      "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/Refract",
-      "created": "2025-12-21T21:16:07Z",
+      "created": "2025-12-21T21:27:41Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
