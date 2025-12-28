@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-28T00:28:02.748Z",
+  "lastUpdated": "2025-12-28T06:08:21.992Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 135,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2740089,
+    "totalSize": 2765754,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -30,12 +30,12 @@
         "percentage": "11.1"
       },
       {
-        "name": "Python",
+        "name": "HTML",
         "count": 10,
         "percentage": "7.4"
       },
       {
-        "name": "HTML",
+        "name": "Python",
         "count": 9,
         "percentage": "6.7"
       },
@@ -77,23 +77,23 @@
         "topics": []
       },
       {
+        "name": "Refract",
+        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
+        "url": "https://github.com/michaelcolenso/Refract",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2025-12-28T03:06:54Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2025-12-27T18:07:45Z",
-        "topics": []
-      },
-      {
-        "name": "Refract",
-        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
-        "url": "https://github.com/michaelcolenso/Refract",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "updated": "2025-12-21T21:27:44Z",
+        "updated": "2025-12-28T00:28:06Z",
         "topics": []
       },
       {
@@ -109,39 +109,39 @@
     ]
   },
   "contributions": {
-    "thisYear": 60,
-    "total": 300
+    "thisYear": 108,
+    "total": 540
   },
   "recentActivity": [
     {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/photography",
+      "created": "2025-12-28T03:55:22Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/photography",
+      "created": "2025-12-28T03:51:46Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "DeleteEvent",
+      "repo": "michaelcolenso/photography",
+      "created": "2025-12-28T03:49:39Z",
+      "action": "DeleteEvent"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/photography",
+      "created": "2025-12-28T03:48:55Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/michaelcolenso",
-      "created": "2025-12-24T22:36:42Z",
+      "repo": "michaelcolenso/photography",
+      "created": "2025-12-28T03:48:54Z",
       "action": "merged pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/michaelcolenso",
-      "created": "2025-12-24T22:36:42Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/michaelcolenso",
-      "created": "2025-12-24T22:36:22Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/michaelcolenso",
-      "created": "2025-12-24T22:35:39Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2025-12-21T21:27:41Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
