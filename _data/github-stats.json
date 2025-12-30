@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T18:08:49.140Z",
+  "lastUpdated": "2025-12-30T00:24:38.884Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 136,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2765822,
+    "totalSize": 2765823,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -30,12 +30,12 @@
         "percentage": "11.0"
       },
       {
-        "name": "Python",
+        "name": "HTML",
         "count": 10,
         "percentage": "7.4"
       },
       {
-        "name": "HTML",
+        "name": "Python",
         "count": 10,
         "percentage": "7.4"
       },
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2025-12-29T18:08:54Z",
+        "topics": []
+      },
+      {
         "name": "TikTok-Product-Scout",
         "description": "scout trending products on tt",
         "url": "https://github.com/michaelcolenso/TikTok-Product-Scout",
@@ -84,16 +94,6 @@
         "forks": 0,
         "language": "Python",
         "updated": "2025-12-29T12:57:58Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2025-12-29T12:10:25Z",
         "topics": []
       },
       {
