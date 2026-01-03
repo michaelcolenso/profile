@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T12:09:27.348Z",
+  "lastUpdated": "2026-01-03T18:07:38.586Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,42 +7,42 @@
     "location": "Seattle, WA",
     "followers": 25,
     "following": 43,
-    "publicRepos": 136,
+    "publicRepos": 137,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 136,
+    "total": 137,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2765845,
+    "totalSize": 2765883,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "35.3"
+        "percentage": "35.0"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "11.0"
+        "percentage": "10.9"
       },
       {
         "name": "HTML",
         "count": 10,
-        "percentage": "7.4"
+        "percentage": "7.3"
       },
       {
         "name": "Python",
         "count": 10,
-        "percentage": "7.4"
+        "percentage": "7.3"
       },
       {
         "name": "Svelte",
-        "count": 5,
-        "percentage": "3.7"
+        "count": 6,
+        "percentage": "4.4"
       }
     ],
     "featured": [
@@ -77,13 +77,23 @@
         "topics": []
       },
       {
+        "name": "portrait-studio-pro",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/portrait-studio-pro",
+        "stars": 0,
+        "forks": 0,
+        "language": "Svelte",
+        "updated": "2026-01-03T16:34:14Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-03T06:08:23Z",
+        "updated": "2026-01-03T12:09:31Z",
         "topics": []
       },
       {
@@ -95,53 +105,43 @@
         "language": "Python",
         "updated": "2025-12-29T12:57:58Z",
         "topics": []
-      },
-      {
-        "name": "Refract",
-        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
-        "url": "https://github.com/michaelcolenso/Refract",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2025-12-28T03:06:54Z",
-        "topics": []
       }
     ]
   },
   "contributions": {
-    "thisYear": 0,
-    "total": 640
+    "thisYear": 24,
+    "total": 760
   },
   "recentActivity": [
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/TikTok-Product-Scout",
-      "created": "2025-12-29T12:57:54Z",
+      "repo": "michaelcolenso/portrait-studio-pro",
+      "created": "2026-01-03T16:34:11Z",
       "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/TikTok-Product-Scout",
-      "created": "2025-12-29T12:57:55Z",
+      "repo": "michaelcolenso/portrait-studio-pro",
+      "created": "2026-01-03T16:34:11Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/TikTok-Product-Scout",
-      "created": "2025-12-29T12:57:42Z",
+      "repo": "michaelcolenso/portrait-studio-pro",
+      "created": "2026-01-03T16:33:46Z",
       "action": "opened pull request"
     },
     {
       "type": "CreateEvent",
-      "repo": "michaelcolenso/TikTok-Product-Scout",
-      "created": "2025-12-29T11:58:00Z",
+      "repo": "michaelcolenso/portrait-studio-pro",
+      "created": "2026-01-03T16:21:31Z",
       "action": "Created branch"
     },
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/TikTok-Product-Scout",
-      "created": "2025-12-29T10:13:11Z",
-      "action": "merged pull request"
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/portrait-studio-pro",
+      "created": "2026-01-03T15:34:31Z",
+      "action": "Created branch"
     }
   ]
 }
