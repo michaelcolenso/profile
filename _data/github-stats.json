@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T06:08:30.859Z",
+  "lastUpdated": "2026-01-04T12:09:12.220Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 137,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2765936,
+    "totalSize": 2803568,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -40,9 +40,9 @@
         "percentage": "7.3"
       },
       {
-        "name": "TypeScript",
-        "count": 5,
-        "percentage": "3.6"
+        "name": "Svelte",
+        "count": 6,
+        "percentage": "4.4"
       }
     ],
     "featured": [
@@ -77,23 +77,23 @@
         "topics": []
       },
       {
+        "name": "portrait-studio-pro",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/portrait-studio-pro",
+        "stars": 0,
+        "forks": 0,
+        "language": "Svelte",
+        "updated": "2026-01-04T08:14:33Z",
+        "topics": []
+      },
+      {
         "name": "Refract",
         "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
         "url": "https://github.com/michaelcolenso/Refract",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-04T05:40:53Z",
-        "topics": []
-      },
-      {
-        "name": "portrait-studio-pro",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/portrait-studio-pro",
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-01-04T05:24:09Z",
+        "updated": "2026-01-04T07:26:06Z",
         "topics": []
       },
       {
@@ -103,45 +103,45 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-04T00:28:08Z",
+        "updated": "2026-01-04T06:08:35Z",
         "topics": []
       }
     ]
   },
   "contributions": {
-    "thisYear": 84,
+    "thisYear": 132,
     "total": 1000
   },
   "recentActivity": [
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-04T05:40:12Z",
+      "repo": "michaelcolenso/portrait-studio-pro",
+      "created": "2026-01-04T08:14:30Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-04T05:39:26Z",
+      "repo": "michaelcolenso/portrait-studio-pro",
+      "created": "2026-01-04T08:14:28Z",
       "action": "merged pull request"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-04T05:39:27Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/portrait-studio-pro",
+      "created": "2026-01-04T08:14:09Z",
+      "action": "labeled pull request"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-04T05:39:18Z",
+      "repo": "michaelcolenso/portrait-studio-pro",
+      "created": "2026-01-04T08:14:09Z",
       "action": "opened pull request"
     },
     {
-      "type": "CreateEvent",
+      "type": "PushEvent",
       "repo": "michaelcolenso/portrait-studio-pro",
-      "created": "2026-01-04T05:39:00Z",
-      "action": "Created branch"
+      "created": "2026-01-04T08:14:08Z",
+      "action": "Pushed undefined commit(s)"
     }
   ]
 }
