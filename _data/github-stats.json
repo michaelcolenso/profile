@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T00:27:50.371Z",
+  "lastUpdated": "2026-01-05T06:11:33.487Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 137,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2838332,
+    "totalSize": 2871009,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,6 +77,26 @@
         "topics": []
       },
       {
+        "name": "Refract",
+        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
+        "url": "https://github.com/michaelcolenso/Refract",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-05T05:06:08Z",
+        "topics": []
+      },
+      {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-05T00:27:54Z",
+        "topics": []
+      },
+      {
         "name": "portrait-studio-pro",
         "description": null,
         "url": "https://github.com/michaelcolenso/portrait-studio-pro",
@@ -85,63 +105,43 @@
         "language": "Svelte",
         "updated": "2026-01-04T21:02:56Z",
         "topics": []
-      },
-      {
-        "name": "Refract",
-        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
-        "url": "https://github.com/michaelcolenso/Refract",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-01-04T20:18:18Z",
-        "topics": []
-      },
-      {
-        "name": "metatron",
-        "description": "An intelligent photography portfolio system that combines advanced AI models for comprehensive image analysis, curation, and portfolio optimization. METATRON helps photographers elevate their work through:",
-        "url": "https://github.com/michaelcolenso/metatron",
-        "stars": 0,
-        "forks": 0,
-        "language": "JavaScript",
-        "updated": "2026-01-04T19:44:03Z",
-        "topics": []
       }
     ]
   },
   "contributions": {
-    "thisYear": 198,
+    "thisYear": 200,
     "total": 1000
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-05T05:06:04Z",
+      "action": "merged pull request"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/portrait-studio-pro",
-      "created": "2026-01-04T21:02:52Z",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-05T05:06:06Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/portrait-studio-pro",
-      "created": "2026-01-04T21:02:51Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/portrait-studio-pro",
-      "created": "2026-01-04T21:02:27Z",
-      "action": "labeled pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/portrait-studio-pro",
-      "created": "2026-01-04T21:02:27Z",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-05T05:05:37Z",
       "action": "opened pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/portrait-studio-pro",
-      "created": "2026-01-04T21:02:27Z",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-05T05:05:24Z",
       "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-05T05:02:54Z",
+      "action": "Created branch"
     }
   ]
 }
