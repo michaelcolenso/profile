@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T06:09:08.674Z",
+  "lastUpdated": "2026-01-06T12:10:22.075Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 137,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2900260,
+    "totalSize": 2900267,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-06T06:09:13Z",
+        "topics": []
+      },
+      {
         "name": "portrait-studio-pro",
         "description": null,
         "url": "https://github.com/michaelcolenso/portrait-studio-pro",
@@ -84,16 +94,6 @@
         "forks": 0,
         "language": "Svelte",
         "updated": "2026-01-06T05:19:13Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-01-06T00:25:06Z",
         "topics": []
       },
       {
