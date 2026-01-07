@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-06T18:08:39.017Z",
+  "lastUpdated": "2026-01-07T00:24:32.040Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
     "bio": "enthusiastic participant.",
     "location": "Seattle, WA",
-    "followers": 25,
+    "followers": 24,
     "following": 43,
     "publicRepos": 137,
     "publicGists": 70,
@@ -17,7 +17,7 @@
     "total": 137,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2900268,
+    "totalSize": 2900269,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -83,7 +83,7 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-06T12:10:27Z",
+        "updated": "2026-01-06T18:08:44Z",
         "topics": []
       },
       {
