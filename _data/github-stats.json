@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T00:25:42.321Z",
+  "lastUpdated": "2026-01-08T06:09:23.379Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,32 +7,32 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 43,
-    "publicRepos": 140,
+    "publicRepos": 141,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 140,
+    "total": 141,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2900504,
+    "totalSize": 2900544,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "34.3"
+        "percentage": "34.0"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "10.7"
+        "percentage": "10.6"
       },
       {
         "name": "Python",
-        "count": 11,
-        "percentage": "7.9"
+        "count": 12,
+        "percentage": "8.5"
       },
       {
         "name": "HTML",
@@ -77,6 +77,26 @@
         "topics": []
       },
       {
+        "name": "BrokenSite-Weekly",
+        "description": "Weekly leads from broken local websites.",
+        "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "updated": "2026-01-08T03:20:40Z",
+        "topics": []
+      },
+      {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-08T00:25:46Z",
+        "topics": []
+      },
+      {
         "name": "golfcoach-pro",
         "description": null,
         "url": "https://github.com/michaelcolenso/golfcoach-pro",
@@ -84,26 +104,6 @@
         "forks": 0,
         "language": "Shell",
         "updated": "2026-01-07T23:05:23Z",
-        "topics": []
-      },
-      {
-        "name": "sturdy-waddle",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/sturdy-waddle",
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-01-07T18:44:19Z",
-        "topics": []
-      },
-      {
-        "name": "cull-the-herd",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/cull-the-herd",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "updated": "2026-01-07T18:33:21Z",
         "topics": []
       }
     ]
@@ -115,33 +115,33 @@
   "recentActivity": [
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-07T23:05:19Z",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-08T03:20:36Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-07T23:03:22Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-08T03:20:35Z",
+      "action": "merged pull request"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-07T23:01:52Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-08T03:20:25Z",
+      "action": "opened pull request"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-07T23:00:38Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-08T02:19:00Z",
+      "action": "Created branch"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-07T22:58:25Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "DeleteEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-08T02:10:21Z",
+      "action": "DeleteEvent"
     }
   ]
 }
