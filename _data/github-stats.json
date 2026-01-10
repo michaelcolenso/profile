@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T12:09:09.767Z",
+  "lastUpdated": "2026-01-10T18:08:08.926Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 142,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903178,
+    "totalSize": 2903191,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-10T12:09:14Z",
+        "topics": []
+      },
+      {
         "name": "Proteus",
         "description": "my professional history",
         "url": "https://github.com/michaelcolenso/Proteus",
@@ -94,16 +104,6 @@
         "forks": 0,
         "language": "Python",
         "updated": "2026-01-10T11:01:06Z",
-        "topics": []
-      },
-      {
-        "name": "portrait-studio-pro",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/portrait-studio-pro",
-        "stars": 0,
-        "forks": 0,
-        "language": "Svelte",
-        "updated": "2026-01-10T08:38:43Z",
         "topics": []
       }
     ]
