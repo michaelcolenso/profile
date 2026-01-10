@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T06:08:01.673Z",
+  "lastUpdated": "2026-01-10T12:09:09.767Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,22 +7,22 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 43,
-    "publicRepos": 141,
+    "publicRepos": 142,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 141,
+    "total": 142,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2900560,
+    "totalSize": 2903178,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "34.0"
+        "percentage": "33.8"
       },
       {
         "name": "Ruby",
@@ -31,18 +31,18 @@
       },
       {
         "name": "Python",
-        "count": 12,
-        "percentage": "8.5"
+        "count": 13,
+        "percentage": "9.2"
       },
       {
         "name": "HTML",
         "count": 10,
-        "percentage": "7.1"
+        "percentage": "7.0"
       },
       {
         "name": "Svelte",
         "count": 6,
-        "percentage": "4.3"
+        "percentage": "4.2"
       }
     ],
     "featured": [
@@ -77,23 +77,13 @@
         "topics": []
       },
       {
-        "name": "BrokenSite-Weekly",
-        "description": "Weekly leads from broken local websites.",
-        "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
+        "name": "Proteus",
+        "description": "my professional history",
+        "url": "https://github.com/michaelcolenso/Proteus",
         "stars": 0,
         "forks": 0,
-        "language": "Python",
-        "updated": "2026-01-10T05:25:01Z",
-        "topics": []
-      },
-      {
-        "name": "mikepage",
-        "description": "bookmark viz in 3d",
-        "url": "https://github.com/michaelcolenso/mikepage",
-        "stars": 0,
-        "forks": 0,
-        "language": "Svelte",
-        "updated": "2026-01-10T05:23:47Z",
+        "language": "Typst",
+        "updated": "2026-01-10T11:21:32Z",
         "topics": []
       },
       {
@@ -102,46 +92,56 @@
         "url": "https://github.com/michaelcolenso/golfcoach-pro",
         "stars": 0,
         "forks": 0,
-        "language": "Shell",
-        "updated": "2026-01-10T04:17:31Z",
+        "language": "Python",
+        "updated": "2026-01-10T11:01:06Z",
+        "topics": []
+      },
+      {
+        "name": "portrait-studio-pro",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/portrait-studio-pro",
+        "stars": 0,
+        "forks": 0,
+        "language": "Svelte",
+        "updated": "2026-01-10T08:38:43Z",
         "topics": []
       }
     ]
   },
   "contributions": {
-    "thisYear": 200,
+    "thisYear": 198,
     "total": 1000
   },
   "recentActivity": [
     {
-      "type": "PullRequestEvent",
+      "type": "CreateEvent",
       "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-10T05:24:57Z",
-      "action": "merged pull request"
+      "created": "2026-01-10T11:36:20Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "PublicEvent",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2024-10-23T06:03:54Z",
+      "action": "PublicEvent"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-10T05:24:58Z",
+      "repo": "michaelcolenso/golfcoach-pro",
+      "created": "2026-01-10T11:01:03Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-10T05:24:49Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-01-10T05:23:43Z",
+      "repo": "michaelcolenso/golfcoach-pro",
+      "created": "2026-01-10T11:01:02Z",
       "action": "merged pull request"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-01-10T05:23:44Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/golfcoach-pro",
+      "created": "2026-01-10T08:53:46Z",
+      "action": "merged pull request"
     }
   ]
 }
