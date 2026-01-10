@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T00:24:36.395Z",
+  "lastUpdated": "2026-01-10T06:08:01.673Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 141,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2900552,
+    "totalSize": 2900560,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,23 +77,23 @@
         "topics": []
       },
       {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-01-09T18:09:08Z",
-        "topics": []
-      },
-      {
         "name": "BrokenSite-Weekly",
         "description": "Weekly leads from broken local websites.",
         "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "updated": "2026-01-08T03:20:40Z",
+        "updated": "2026-01-10T05:25:01Z",
+        "topics": []
+      },
+      {
+        "name": "mikepage",
+        "description": "bookmark viz in 3d",
+        "url": "https://github.com/michaelcolenso/mikepage",
+        "stars": 0,
+        "forks": 0,
+        "language": "Svelte",
+        "updated": "2026-01-10T05:23:47Z",
         "topics": []
       },
       {
@@ -103,7 +103,7 @@
         "stars": 0,
         "forks": 0,
         "language": "Shell",
-        "updated": "2026-01-07T23:05:23Z",
+        "updated": "2026-01-10T04:17:31Z",
         "topics": []
       }
     ]
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-10T05:24:57Z",
+      "action": "merged pull request"
+    },
+    {
       "type": "PushEvent",
       "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-08T03:20:36Z",
+      "created": "2026-01-10T05:24:58Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-08T03:20:35Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-08T03:20:25Z",
+      "created": "2026-01-10T05:24:49Z",
       "action": "opened pull request"
     },
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-08T02:19:00Z",
-      "action": "Created branch"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-10T05:23:43Z",
+      "action": "merged pull request"
     },
     {
-      "type": "DeleteEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-08T02:10:21Z",
-      "action": "DeleteEvent"
+      "type": "PushEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-10T05:23:44Z",
+      "action": "Pushed undefined commit(s)"
     }
   ]
 }
