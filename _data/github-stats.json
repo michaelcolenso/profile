@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T12:09:38.463Z",
+  "lastUpdated": "2026-01-11T18:07:49.690Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 141,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903107,
+    "totalSize": 2903116,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -83,17 +83,17 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "updated": "2026-01-11T09:20:46Z",
+        "updated": "2026-01-11T14:28:50Z",
         "topics": []
       },
       {
-        "name": "Proteus",
-        "description": "my professional history",
-        "url": "https://github.com/michaelcolenso/Proteus",
+        "name": "mikepage",
+        "description": "bookmark viz in 3d",
+        "url": "https://github.com/michaelcolenso/mikepage",
         "stars": 0,
         "forks": 0,
-        "language": "Typst",
-        "updated": "2026-01-11T09:16:30Z",
+        "language": "Svelte",
+        "updated": "2026-01-11T14:22:31Z",
         "topics": []
       },
       {
@@ -103,7 +103,7 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-11T06:08:30Z",
+        "updated": "2026-01-11T12:09:42Z",
         "topics": []
       }
     ]
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/michaelcolenso",
-      "created": "2026-01-11T10:29:55Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/michaelcolenso",
-      "created": "2026-01-11T10:29:00Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-11T14:30:34Z",
+      "action": "Created branch"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-11T09:20:41Z",
+      "created": "2026-01-11T14:28:46Z",
       "action": "merged pull request"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-11T09:20:43Z",
+      "created": "2026-01-11T14:28:47Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-01-11T09:16:27Z",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-11T14:22:28Z",
       "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-11T14:22:27Z",
+      "action": "merged pull request"
     }
   ]
 }
