@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T06:08:26.316Z",
+  "lastUpdated": "2026-01-11T12:09:38.463Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,22 +7,22 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 43,
-    "publicRepos": 142,
+    "publicRepos": 141,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 142,
+    "total": 141,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903194,
+    "totalSize": 2903107,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "33.8"
+        "percentage": "34.0"
       },
       {
         "name": "Ruby",
@@ -37,12 +37,12 @@
       {
         "name": "HTML",
         "count": 10,
-        "percentage": "7.0"
+        "percentage": "7.1"
       },
       {
         "name": "Svelte",
-        "count": 6,
-        "percentage": "4.2"
+        "count": 5,
+        "percentage": "3.5"
       }
     ],
     "featured": [
@@ -73,27 +73,7 @@
         "stars": 1,
         "forks": 0,
         "language": "Astro",
-        "updated": "2025-12-24T22:36:45Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-01-11T00:28:29Z",
-        "topics": []
-      },
-      {
-        "name": "Proteus",
-        "description": "my professional history",
-        "url": "https://github.com/michaelcolenso/Proteus",
-        "stars": 0,
-        "forks": 0,
-        "language": "Typst",
-        "updated": "2026-01-10T11:21:32Z",
+        "updated": "2026-01-11T10:29:58Z",
         "topics": []
       },
       {
@@ -103,45 +83,65 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "updated": "2026-01-10T11:01:06Z",
+        "updated": "2026-01-11T09:20:46Z",
+        "topics": []
+      },
+      {
+        "name": "Proteus",
+        "description": "my professional history",
+        "url": "https://github.com/michaelcolenso/Proteus",
+        "stars": 0,
+        "forks": 0,
+        "language": "Typst",
+        "updated": "2026-01-11T09:16:30Z",
+        "topics": []
+      },
+      {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-11T06:08:30Z",
         "topics": []
       }
     ]
   },
   "contributions": {
-    "thisYear": 198,
-    "total": 1000
+    "thisYear": 174,
+    "total": 880
   },
   "recentActivity": [
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-10T11:36:20Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "PublicEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2024-10-23T06:03:54Z",
-      "action": "PublicEvent"
+      "type": "PushEvent",
+      "repo": "michaelcolenso/michaelcolenso",
+      "created": "2026-01-11T10:29:55Z",
+      "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-10T11:01:03Z",
+      "repo": "michaelcolenso/michaelcolenso",
+      "created": "2026-01-11T10:29:00Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-10T11:01:02Z",
+      "created": "2026-01-11T09:20:41Z",
       "action": "merged pull request"
     },
     {
-      "type": "PullRequestEvent",
+      "type": "PushEvent",
       "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-10T08:53:46Z",
-      "action": "merged pull request"
+      "created": "2026-01-11T09:20:43Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-11T09:16:27Z",
+      "action": "Pushed undefined commit(s)"
     }
   ]
 }
