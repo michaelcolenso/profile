@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T00:26:53.459Z",
+  "lastUpdated": "2026-01-12T06:10:55.752Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 141,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903119,
+    "totalSize": 2903234,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,13 +77,13 @@
         "topics": []
       },
       {
-        "name": "cull-the-herd",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/cull-the-herd",
+        "name": "BrokenSite-Weekly",
+        "description": "Weekly leads from broken local websites.",
+        "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "updated": "2026-01-12T00:10:42Z",
+        "updated": "2026-01-12T04:03:41Z",
         "topics": []
       },
       {
@@ -93,55 +93,55 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-11T18:07:53Z",
+        "updated": "2026-01-12T00:26:57Z",
         "topics": []
       },
       {
-        "name": "golfcoach-pro",
+        "name": "cull-the-herd",
         "description": null,
-        "url": "https://github.com/michaelcolenso/golfcoach-pro",
+        "url": "https://github.com/michaelcolenso/cull-the-herd",
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "updated": "2026-01-11T14:28:50Z",
+        "updated": "2026-01-12T00:10:42Z",
         "topics": []
       }
     ]
   },
   "contributions": {
-    "thisYear": 174,
-    "total": 880
+    "thisYear": 192,
+    "total": 970
   },
   "recentActivity": [
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/cull-the-herd",
-      "created": "2026-01-12T00:10:39Z",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-12T04:03:38Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/cull-the-herd",
-      "created": "2026-01-11T20:46:52Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "WatchEvent",
+      "repo": "virattt/ai-hedge-fund",
+      "created": "2026-01-12T02:09:55Z",
+      "action": "Starred repository"
     },
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/cull-the-herd",
-      "created": "2026-01-11T20:46:51Z",
-      "action": "merged pull request"
+      "type": "WatchEvent",
+      "repo": "bytedance/UI-TARS-desktop",
+      "created": "2026-01-12T02:08:24Z",
+      "action": "Starred repository"
     },
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/cull-the-herd",
-      "created": "2026-01-11T20:46:38Z",
-      "action": "opened pull request"
+      "type": "WatchEvent",
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "created": "2026-01-12T02:06:42Z",
+      "action": "Starred repository"
     },
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-01-11T14:30:34Z",
-      "action": "Created branch"
+      "type": "WatchEvent",
+      "repo": "BloopAI/vibe-kanban",
+      "created": "2026-01-12T02:06:37Z",
+      "action": "Starred repository"
     }
   ]
 }
