@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T18:07:49.690Z",
+  "lastUpdated": "2026-01-12T00:26:53.459Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 141,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903116,
+    "totalSize": 2903119,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,23 +77,13 @@
         "topics": []
       },
       {
-        "name": "golfcoach-pro",
+        "name": "cull-the-herd",
         "description": null,
-        "url": "https://github.com/michaelcolenso/golfcoach-pro",
+        "url": "https://github.com/michaelcolenso/cull-the-herd",
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "updated": "2026-01-11T14:28:50Z",
-        "topics": []
-      },
-      {
-        "name": "mikepage",
-        "description": "bookmark viz in 3d",
-        "url": "https://github.com/michaelcolenso/mikepage",
-        "stars": 0,
-        "forks": 0,
-        "language": "Svelte",
-        "updated": "2026-01-11T14:22:31Z",
+        "updated": "2026-01-12T00:10:42Z",
         "topics": []
       },
       {
@@ -103,7 +93,17 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-11T12:09:42Z",
+        "updated": "2026-01-11T18:07:53Z",
+        "topics": []
+      },
+      {
+        "name": "golfcoach-pro",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/golfcoach-pro",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "updated": "2026-01-11T14:28:50Z",
         "topics": []
       }
     ]
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/cull-the-herd",
+      "created": "2026-01-12T00:10:39Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/cull-the-herd",
+      "created": "2026-01-11T20:46:52Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/cull-the-herd",
+      "created": "2026-01-11T20:46:51Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/cull-the-herd",
+      "created": "2026-01-11T20:46:38Z",
+      "action": "opened pull request"
+    },
+    {
       "type": "CreateEvent",
       "repo": "michaelcolenso/mikepage",
       "created": "2026-01-11T14:30:34Z",
       "action": "Created branch"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-11T14:28:46Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/golfcoach-pro",
-      "created": "2026-01-11T14:28:47Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-01-11T14:22:28Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-01-11T14:22:27Z",
-      "action": "merged pull request"
     }
   ]
 }
