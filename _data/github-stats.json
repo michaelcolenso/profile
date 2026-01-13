@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T06:09:31.798Z",
+  "lastUpdated": "2026-01-13T12:10:47.254Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,22 +7,22 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 43,
-    "publicRepos": 141,
+    "publicRepos": 142,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 141,
+    "total": 142,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903239,
+    "totalSize": 2903254,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "34.0"
+        "percentage": "33.8"
       },
       {
         "name": "Ruby",
@@ -37,12 +37,12 @@
       {
         "name": "HTML",
         "count": 10,
-        "percentage": "7.1"
+        "percentage": "7.0"
       },
       {
-        "name": "Svelte",
-        "count": 5,
-        "percentage": "3.5"
+        "name": "TypeScript",
+        "count": 6,
+        "percentage": "4.2"
       }
     ],
     "featured": [
@@ -77,13 +77,23 @@
         "topics": []
       },
       {
+        "name": "ProSwing-AI",
+        "description": "Golf swing analyzer",
+        "url": "https://github.com/michaelcolenso/ProSwing-AI",
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "updated": "2026-01-13T06:50:18Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-13T00:22:01Z",
+        "updated": "2026-01-13T06:09:36Z",
         "topics": []
       },
       {
@@ -95,53 +105,43 @@
         "language": "Python",
         "updated": "2026-01-12T04:03:41Z",
         "topics": []
-      },
-      {
-        "name": "cull-the-herd",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/cull-the-herd",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "updated": "2026-01-12T00:10:42Z",
-        "topics": []
       }
     ]
   },
   "contributions": {
-    "thisYear": 192,
-    "total": 970
+    "thisYear": 198,
+    "total": 1000
   },
   "recentActivity": [
     {
+      "type": "WatchEvent",
+      "repo": "vercel-labs/agent-browser",
+      "created": "2026-01-13T10:32:12Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "cipher387/osint_stuff_tool_collection",
+      "created": "2026-01-13T08:20:09Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "RhetTbull/osxphotos",
+      "created": "2026-01-13T08:13:35Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "finbarr/yolobox",
+      "created": "2026-01-13T08:04:25Z",
+      "action": "Starred repository"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-12T04:03:38Z",
+      "repo": "michaelcolenso/ProSwing-AI",
+      "created": "2026-01-13T06:50:16Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "virattt/ai-hedge-fund",
-      "created": "2026-01-12T02:09:55Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "bytedance/UI-TARS-desktop",
-      "created": "2026-01-12T02:08:24Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "created": "2026-01-12T02:06:42Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "BloopAI/vibe-kanban",
-      "created": "2026-01-12T02:06:37Z",
-      "action": "Starred repository"
     }
   ]
 }
