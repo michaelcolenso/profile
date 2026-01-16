@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-16T12:10:07.770Z",
+  "lastUpdated": "2026-01-16T18:08:50.208Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
     "bio": "enthusiastic participant.",
     "location": "Seattle, WA",
-    "followers": 24,
+    "followers": 25,
     "following": 44,
     "publicRepos": 142,
     "publicGists": 70,
@@ -17,7 +17,7 @@
     "total": 142,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903268,
+    "totalSize": 2903296,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,33 +77,33 @@
         "topics": []
       },
       {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-01-16T06:09:42Z",
-        "topics": []
-      },
-      {
-        "name": "ProSwing-AI",
-        "description": "Golf swing analyzer",
-        "url": "https://github.com/michaelcolenso/ProSwing-AI",
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-01-13T06:50:18Z",
-        "topics": []
-      },
-      {
         "name": "BrokenSite-Weekly",
         "description": "Weekly leads from broken local websites.",
         "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "updated": "2026-01-12T04:03:41Z",
+        "updated": "2026-01-16T17:04:19Z",
+        "topics": []
+      },
+      {
+        "name": "Refract",
+        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
+        "url": "https://github.com/michaelcolenso/Refract",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-16T12:52:41Z",
+        "topics": []
+      },
+      {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-16T12:10:12Z",
         "topics": []
       }
     ]
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-12T02:04:00Z",
+      "action": "closed pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-16T17:04:15Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-01-16T17:04:14Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-16T12:52:38Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
       "type": "WatchEvent",
       "repo": "vercel-labs/agent-browser",
       "created": "2026-01-13T10:32:12Z",
       "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "cipher387/osint_stuff_tool_collection",
-      "created": "2026-01-13T08:20:09Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "RhetTbull/osxphotos",
-      "created": "2026-01-13T08:13:35Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "finbarr/yolobox",
-      "created": "2026-01-13T08:04:25Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/ProSwing-AI",
-      "created": "2026-01-13T06:50:16Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
