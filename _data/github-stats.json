@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-17T00:23:50.796Z",
+  "lastUpdated": "2026-01-17T06:08:06.381Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
     "bio": "enthusiastic participant.",
     "location": "Seattle, WA",
-    "followers": 25,
+    "followers": 26,
     "following": 44,
     "publicRepos": 143,
     "publicGists": 70,
@@ -17,7 +17,7 @@
     "total": 143,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903340,
+    "totalSize": 2903341,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-17T00:23:56Z",
+        "topics": []
+      },
+      {
         "name": "ai-photo-critic",
         "description": "iterative critiques and edits",
         "url": "https://github.com/michaelcolenso/ai-photo-critic",
@@ -84,16 +94,6 @@
         "forks": 0,
         "language": "TypeScript",
         "updated": "2026-01-16T21:44:14Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-01-16T18:10:31Z",
         "topics": []
       },
       {
