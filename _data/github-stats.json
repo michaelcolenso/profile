@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T12:11:07.080Z",
+  "lastUpdated": "2026-01-19T18:08:28.472Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 143,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903459,
+    "totalSize": 2903460,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-19T12:11:11Z",
+        "topics": []
+      },
+      {
         "name": "Proteus",
         "description": "my professional history",
         "url": "https://github.com/michaelcolenso/Proteus",
@@ -84,16 +94,6 @@
         "forks": 0,
         "language": "Typst",
         "updated": "2026-01-19T11:04:18Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-01-19T06:11:34Z",
         "topics": []
       },
       {
