@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T00:27:05.839Z",
+  "lastUpdated": "2026-01-19T06:11:29.060Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 143,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903349,
+    "totalSize": 2903376,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,13 +77,23 @@
         "topics": []
       },
       {
+        "name": "Proteus",
+        "description": "my professional history",
+        "url": "https://github.com/michaelcolenso/Proteus",
+        "stars": 0,
+        "forks": 0,
+        "language": "Typst",
+        "updated": "2026-01-19T05:57:55Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-18T18:07:42Z",
+        "updated": "2026-01-19T00:27:10Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "TypeScript",
         "updated": "2026-01-16T21:44:14Z",
         "topics": []
-      },
-      {
-        "name": "BrokenSite-Weekly",
-        "description": "Weekly leads from broken local websites.",
-        "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "updated": "2026-01-16T17:04:19Z",
-        "topics": []
       }
     ]
   },
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "WatchEvent",
-      "repo": "sdras/awesome-actions",
-      "created": "2026-01-18T14:37:49Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "systemd/systemd",
-      "created": "2026-01-17T23:09:44Z",
-      "action": "Starred repository"
-    },
-    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/ai-photo-critic",
-      "created": "2026-01-16T21:44:11Z",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-19T06:06:23Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/ai-photo-critic",
-      "created": "2026-01-16T21:09:32Z",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-19T06:02:37Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/ai-photo-critic",
-      "created": "2026-01-16T20:53:46Z",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-19T05:57:52Z",
       "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-19T05:57:51Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-19T05:57:13Z",
+      "action": "opened pull request"
     }
   ]
 }
