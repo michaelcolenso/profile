@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-01-24T06:08:12.284Z",
+  "lastUpdated": "2026-01-24T12:09:33.022Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
     "bio": "enthusiastic participant.",
     "location": "Seattle, WA",
-    "followers": 25,
+    "followers": 24,
     "following": 44,
     "publicRepos": 144,
     "publicGists": 70,
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903448,
+    "totalSize": 2903449,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,13 +77,23 @@
         "topics": []
       },
       {
+        "name": "Proteus",
+        "description": "my professional history",
+        "url": "https://github.com/michaelcolenso/Proteus",
+        "stars": 0,
+        "forks": 0,
+        "language": "Typst",
+        "updated": "2026-01-24T11:52:28Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-24T00:24:59Z",
+        "updated": "2026-01-24T06:08:16Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "Python",
         "updated": "2026-01-22T09:18:40Z",
         "topics": []
-      },
-      {
-        "name": "Proteus",
-        "description": "my professional history",
-        "url": "https://github.com/michaelcolenso/Proteus",
-        "stars": 0,
-        "forks": 0,
-        "language": "Typst",
-        "updated": "2026-01-19T11:04:18Z",
-        "topics": []
       }
     ]
   },
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/rip",
-      "created": "2026-01-22T09:18:37Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-19T07:26:03Z",
+      "action": "closed pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-19T07:26:20Z",
+      "action": "closed pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/rip",
-      "created": "2026-01-22T09:13:45Z",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-24T11:52:25Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/rip",
-      "created": "2026-01-22T09:13:44Z",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-24T11:52:24Z",
       "action": "merged pull request"
     },
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/rip",
-      "created": "2026-01-22T09:12:22Z",
-      "action": "labeled pull request"
-    },
-    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/rip",
-      "created": "2026-01-22T09:12:22Z",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-24T11:49:58Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
