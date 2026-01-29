@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T18:11:16.779Z",
+  "lastUpdated": "2026-01-29T00:29:13.935Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2903492,
+    "totalSize": 2903510,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,13 +77,23 @@
         "topics": []
       },
       {
+        "name": "mikepage",
+        "description": "bookmark viz in 3d",
+        "url": "https://github.com/michaelcolenso/mikepage",
+        "stars": 0,
+        "forks": 0,
+        "language": "Svelte",
+        "updated": "2026-01-28T20:20:57Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-28T12:11:36Z",
+        "updated": "2026-01-28T18:11:21Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "Typst",
         "updated": "2026-01-24T11:52:28Z",
         "topics": []
-      },
-      {
-        "name": "rip",
-        "description": "regulatory intelligence platorm",
-        "url": "https://github.com/michaelcolenso/rip",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "updated": "2026-01-22T09:18:40Z",
-        "topics": []
       }
     ]
   },
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-01-19T07:26:03Z",
-      "action": "closed pull request"
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/1033-Program-Map",
+      "created": "2026-01-28T20:30:42Z",
+      "action": "Created branch"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-01-19T07:26:20Z",
-      "action": "closed pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-01-24T11:52:25Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-01-24T11:52:24Z",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-28T20:20:52Z",
       "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-01-24T11:49:58Z",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-28T20:20:53Z",
       "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-28T20:20:33Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-01-19T07:26:03Z",
+      "action": "closed pull request"
     }
   ]
 }
