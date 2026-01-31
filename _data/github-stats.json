@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T00:28:30.696Z",
+  "lastUpdated": "2026-01-31T06:13:11.926Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3031384,
+    "totalSize": 3031807,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -83,7 +83,17 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-30T22:16:52Z",
+        "updated": "2026-01-31T01:46:23Z",
+        "topics": []
+      },
+      {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-01-31T00:28:34Z",
         "topics": []
       },
       {
@@ -94,16 +104,6 @@
         "forks": 0,
         "language": "Svelte",
         "updated": "2026-01-30T21:24:23Z",
-        "topics": []
-      },
-      {
-        "name": "Proteus",
-        "description": "my professional history",
-        "url": "https://github.com/michaelcolenso/Proteus",
-        "stars": 0,
-        "forks": 0,
-        "language": "Typst",
-        "updated": "2026-01-30T20:49:10Z",
         "topics": []
       }
     ]
@@ -116,32 +116,32 @@
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/Refract",
-      "created": "2026-01-30T22:14:14Z",
+      "created": "2026-01-31T01:46:20Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-30T22:14:14Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-01-30T21:24:19Z",
-      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-01-30T21:24:20Z",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-31T01:37:09Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-01-30T21:23:55Z",
-      "action": "opened pull request"
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-31T01:31:55Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-31T01:28:52Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-31T01:23:44Z",
+      "action": "Pushed undefined commit(s)"
     }
   ]
 }
