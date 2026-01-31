@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T18:13:32.944Z",
+  "lastUpdated": "2026-01-31T00:28:30.696Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 2982854,
+    "totalSize": 3031384,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -63,7 +63,7 @@
         "stars": 2,
         "forks": 0,
         "language": "JavaScript",
-        "updated": "2025-11-05T03:08:01Z",
+        "updated": "2026-01-30T20:59:31Z",
         "topics": []
       },
       {
@@ -77,33 +77,33 @@
         "topics": []
       },
       {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-01-30T12:13:17Z",
-        "topics": []
-      },
-      {
-        "name": "BrokenSite-Weekly",
-        "description": "Weekly leads from broken local websites.",
-        "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "updated": "2026-01-30T11:41:08Z",
-        "topics": []
-      },
-      {
         "name": "Refract",
         "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
         "url": "https://github.com/michaelcolenso/Refract",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-01-30T10:14:33Z",
+        "updated": "2026-01-30T22:16:52Z",
+        "topics": []
+      },
+      {
+        "name": "mikepage",
+        "description": "bookmark viz in 3d",
+        "url": "https://github.com/michaelcolenso/mikepage",
+        "stars": 0,
+        "forks": 0,
+        "language": "Svelte",
+        "updated": "2026-01-30T21:24:23Z",
+        "topics": []
+      },
+      {
+        "name": "Proteus",
+        "description": "my professional history",
+        "url": "https://github.com/michaelcolenso/Proteus",
+        "stars": 0,
+        "forks": 0,
+        "language": "Typst",
+        "updated": "2026-01-30T20:49:10Z",
         "topics": []
       }
     ]
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-30T13:56:51Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-30T13:55:27Z",
-      "action": "Created branch"
-    },
-    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-30T11:41:04Z",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-30T22:14:14Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-30T11:41:03Z",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-01-30T22:14:14Z",
       "action": "merged pull request"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-01-30T11:40:42Z",
-      "action": "labeled pull request"
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-30T21:24:19Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-30T21:24:20Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-01-30T21:23:55Z",
+      "action": "opened pull request"
     }
   ]
 }
