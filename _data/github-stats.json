@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T12:14:50.161Z",
+  "lastUpdated": "2026-02-02T18:14:45.538Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3031821,
+    "totalSize": 3031823,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-02-02T12:14:54Z",
+        "topics": []
+      },
+      {
         "name": "mikepage",
         "description": "bookmark viz in 3d",
         "url": "https://github.com/michaelcolenso/mikepage",
@@ -84,16 +94,6 @@
         "forks": 0,
         "language": "Svelte",
         "updated": "2026-02-02T09:22:40Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-02T06:28:09Z",
         "topics": []
       },
       {
