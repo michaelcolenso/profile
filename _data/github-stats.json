@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T06:28:05.407Z",
+  "lastUpdated": "2026-02-02T12:14:50.161Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3031816,
+    "totalSize": 3031821,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,13 +77,23 @@
         "topics": []
       },
       {
+        "name": "mikepage",
+        "description": "bookmark viz in 3d",
+        "url": "https://github.com/michaelcolenso/mikepage",
+        "stars": 0,
+        "forks": 0,
+        "language": "Svelte",
+        "updated": "2026-02-02T09:22:40Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-02-02T00:31:08Z",
+        "updated": "2026-02-02T06:28:09Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "HTML",
         "updated": "2026-01-31T01:46:23Z",
         "topics": []
-      },
-      {
-        "name": "mikepage",
-        "description": "bookmark viz in 3d",
-        "url": "https://github.com/michaelcolenso/mikepage",
-        "stars": 0,
-        "forks": 0,
-        "language": "Svelte",
-        "updated": "2026-01-30T21:24:23Z",
-        "topics": []
       }
     ]
   },
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-02-02T09:22:35Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-02-02T09:22:36Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-02-02T09:21:48Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-02-02T08:47:11Z",
+      "action": "Created branch"
+    },
+    {
       "type": "PushEvent",
       "repo": "michaelcolenso/Refract",
       "created": "2026-01-31T01:46:20Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-31T01:37:09Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-31T01:31:55Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-31T01:28:52Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-01-31T01:23:44Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
