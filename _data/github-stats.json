@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T18:14:45.538Z",
+  "lastUpdated": "2026-02-03T00:31:47.498Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3031823,
+    "totalSize": 3032815,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,13 +77,23 @@
         "topics": []
       },
       {
+        "name": "Refract",
+        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
+        "url": "https://github.com/michaelcolenso/Refract",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-02-02T22:41:07Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-02-02T12:14:54Z",
+        "updated": "2026-02-02T18:14:57Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "Svelte",
         "updated": "2026-02-02T09:22:40Z",
         "topics": []
-      },
-      {
-        "name": "Refract",
-        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
-        "url": "https://github.com/michaelcolenso/Refract",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-01-31T01:46:23Z",
-        "topics": []
       }
     ]
   },
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-02-02T09:22:35Z",
-      "action": "merged pull request"
-    },
-    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-02-02T09:22:36Z",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-02-02T22:41:04Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-02-02T09:21:48Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/mikepage",
-      "created": "2026-02-02T08:47:11Z",
-      "action": "Created branch"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/Refract",
-      "created": "2026-01-31T01:46:20Z",
+      "created": "2026-02-02T20:28:49Z",
       "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-02-02T20:22:57Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-02-02T20:22:58Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "IssueCommentEvent",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-02-02T20:01:12Z",
+      "action": "Commented on issue"
     }
   ]
 }
