@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T12:14:43.397Z",
+  "lastUpdated": "2026-02-03T18:21:45.681Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3032817,
+    "totalSize": 3035180,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-02-03T12:14:48Z",
+        "topics": []
+      },
+      {
         "name": "Refract",
         "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
         "url": "https://github.com/michaelcolenso/Refract",
@@ -84,16 +94,6 @@
         "forks": 0,
         "language": "HTML",
         "updated": "2026-02-03T11:32:57Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-03T06:20:52Z",
         "topics": []
       },
       {
