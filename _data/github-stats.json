@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T06:23:50.763Z",
+  "lastUpdated": "2026-02-05T12:15:34.220Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3035148,
+    "totalSize": 3041856,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,13 +77,23 @@
         "topics": []
       },
       {
+        "name": "BrokenSite-Weekly",
+        "description": "Weekly leads from broken local websites.",
+        "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "updated": "2026-02-05T08:33:02Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-02-05T00:31:33Z",
+        "updated": "2026-02-05T06:23:54Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "HTML",
         "updated": "2026-02-03T11:32:57Z",
         "topics": []
-      },
-      {
-        "name": "mikepage",
-        "description": "bookmark viz in 3d",
-        "url": "https://github.com/michaelcolenso/mikepage",
-        "stars": 0,
-        "forks": 0,
-        "language": "Svelte",
-        "updated": "2026-02-02T09:22:40Z",
-        "topics": []
       }
     ]
   },
@@ -113,6 +113,12 @@
     "total": 1000
   },
   "recentActivity": [
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-02-05T08:32:55Z",
+      "action": "Pushed undefined commit(s)"
+    },
     {
       "type": "WatchEvent",
       "repo": "openai/skills",
@@ -136,12 +142,6 @@
       "repo": "michaelcolenso/Refract",
       "created": "2026-02-02T20:22:57Z",
       "action": "merged pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Refract",
-      "created": "2026-02-02T20:22:58Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
