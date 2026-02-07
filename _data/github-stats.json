@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T06:15:50.589Z",
+  "lastUpdated": "2026-02-07T12:10:35.532Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 144,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3072623,
+    "totalSize": 3072411,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -53,7 +53,7 @@
         "stars": 12,
         "forks": 2,
         "language": "JavaScript",
-        "updated": "2024-01-01T10:46:42Z",
+        "updated": "2026-02-07T06:29:49Z",
         "topics": []
       },
       {
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-02-07T06:15:54Z",
+        "topics": []
+      },
+      {
         "name": "mindcrime",
         "description": null,
         "url": "https://github.com/michaelcolenso/mindcrime",
@@ -95,16 +105,6 @@
         "language": "Python",
         "updated": "2026-02-07T03:22:36Z",
         "topics": []
-      },
-      {
-        "name": "Refract",
-        "description": "Refract is a self-correcting photography log. The user drops photographs into a specific folder inside their repository. After pushing to GitHub, the system automatically: 1. Analyzes the photo (Critic) 2. Improves the photo (Editor) 3. Documents the transformation (Generator) 4. Publishes the result on a static website",
-        "url": "https://github.com/michaelcolenso/Refract",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-07T02:09:07Z",
-        "topics": []
       }
     ]
   },
@@ -113,6 +113,12 @@
     "total": 1000
   },
   "recentActivity": [
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/tcplatmap",
+      "created": "2026-02-07T06:29:43Z",
+      "action": "Pushed undefined commit(s)"
+    },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/mindcrime",
@@ -135,12 +141,6 @@
       "type": "PushEvent",
       "repo": "michaelcolenso/microfeed",
       "created": "2026-02-07T03:44:53Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/microfeed",
-      "created": "2026-02-07T03:40:26Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
