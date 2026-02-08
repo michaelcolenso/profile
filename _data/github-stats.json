@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T00:39:10.290Z",
+  "lastUpdated": "2026-02-08T06:20:43.105Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,27 +7,27 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 144,
+    "publicRepos": 145,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 144,
+    "total": 145,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3072414,
+    "totalSize": 3072672,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "33.3"
+        "percentage": "33.1"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "10.4"
+        "percentage": "10.3"
       },
       {
         "name": "Python",
@@ -42,7 +42,7 @@
       {
         "name": "TypeScript",
         "count": 7,
-        "percentage": "4.9"
+        "percentage": "4.8"
       }
     ],
     "featured": [
@@ -77,23 +77,13 @@
         "topics": []
       },
       {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
+        "name": "playground-",
+        "description": "agent repo",
+        "url": "https://github.com/michaelcolenso/playground-",
         "stars": 0,
         "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-07T18:09:24Z",
-        "topics": []
-      },
-      {
-        "name": "mindcrime",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/mindcrime",
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-02-07T03:47:25Z",
+        "language": null,
+        "updated": "2026-02-08T06:12:46Z",
         "topics": []
       },
       {
@@ -103,7 +93,17 @@
         "stars": 0,
         "forks": 0,
         "language": "Python",
-        "updated": "2026-02-07T03:22:36Z",
+        "updated": "2026-02-08T04:17:30Z",
+        "topics": []
+      },
+      {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-02-08T00:39:14Z",
         "topics": []
       }
     ]
@@ -113,6 +113,18 @@
     "total": 1000
   },
   "recentActivity": [
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/playground-",
+      "created": "2026-02-08T06:12:44Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-02-08T04:17:25Z",
+      "action": "Pushed undefined commit(s)"
+    },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/BrokenSite-Weekly",
@@ -129,18 +141,6 @@
       "type": "PushEvent",
       "repo": "michaelcolenso/BrokenSite-Weekly",
       "created": "2026-02-07T23:57:58Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-02-07T23:57:55Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/tcplatmap",
-      "created": "2026-02-07T06:29:43Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
