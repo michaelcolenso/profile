@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T06:20:43.105Z",
+  "lastUpdated": "2026-02-08T12:11:14.357Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 145,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3072672,
+    "totalSize": 3072746,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -41,8 +41,8 @@
       },
       {
         "name": "TypeScript",
-        "count": 7,
-        "percentage": "4.8"
+        "count": 8,
+        "percentage": "5.5"
       }
     ],
     "featured": [
@@ -82,8 +82,18 @@
         "url": "https://github.com/michaelcolenso/playground-",
         "stars": 0,
         "forks": 0,
-        "language": null,
-        "updated": "2026-02-08T06:12:46Z",
+        "language": "TypeScript",
+        "updated": "2026-02-08T07:15:43Z",
+        "topics": []
+      },
+      {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-02-08T06:20:46Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "Python",
         "updated": "2026-02-08T04:17:30Z",
         "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-08T00:39:14Z",
-        "topics": []
       }
     ]
   },
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/playground-",
+      "created": "2026-02-08T07:15:39Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/playground-",
+      "created": "2026-02-08T07:15:40Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/playground-",
+      "created": "2026-02-08T06:41:16Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/playground-",
+      "created": "2026-02-08T06:21:50Z",
+      "action": "Created branch"
+    },
+    {
       "type": "CreateEvent",
       "repo": "michaelcolenso/playground-",
       "created": "2026-02-08T06:12:44Z",
       "action": "Created branch"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-02-08T04:17:25Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-02-07T23:57:58Z",
-      "action": "labeled pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-02-07T23:57:58Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-02-07T23:57:58Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
