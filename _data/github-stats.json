@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T12:11:14.357Z",
+  "lastUpdated": "2026-02-08T18:10:19.150Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 145,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3072746,
+    "totalSize": 3072747,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-02-08T12:11:18Z",
+        "topics": []
+      },
+      {
         "name": "playground-",
         "description": "agent repo",
         "url": "https://github.com/michaelcolenso/playground-",
@@ -84,16 +94,6 @@
         "forks": 0,
         "language": "TypeScript",
         "updated": "2026-02-08T07:15:43Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-08T06:20:46Z",
         "topics": []
       },
       {
