@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T12:20:18.085Z",
+  "lastUpdated": "2026-02-09T18:21:48.806Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 145,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3072671,
+    "totalSize": 3072721,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -67,6 +67,16 @@
         "topics": []
       },
       {
+        "name": "blog",
+        "description": "michaelcolenso.com/blog",
+        "url": "https://github.com/michaelcolenso/blog",
+        "stars": 1,
+        "forks": 0,
+        "language": "Ruby",
+        "updated": "2026-02-09T17:04:25Z",
+        "topics": []
+      },
+      {
         "name": "michaelcolenso",
         "description": "problem solver",
         "url": "https://github.com/michaelcolenso/michaelcolenso",
@@ -83,7 +93,7 @@
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-02-09T06:29:03Z",
+        "updated": "2026-02-09T12:20:22Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "TypeScript",
         "updated": "2026-02-08T23:41:41Z",
         "topics": []
-      },
-      {
-        "name": "BrokenSite-Weekly",
-        "description": "Weekly leads from broken local websites.",
-        "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
-        "stars": 0,
-        "forks": 0,
-        "language": "Python",
-        "updated": "2026-02-08T04:17:30Z",
-        "topics": []
       }
     ]
   },
@@ -115,32 +115,32 @@
   "recentActivity": [
     {
       "type": "PushEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-02-09T17:11:02Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/blog",
+      "created": "2026-02-09T17:04:21Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/blog",
+      "created": "2026-02-09T17:04:20Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/blog",
+      "created": "2026-02-09T17:02:17Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "PushEvent",
       "repo": "michaelcolenso/blog",
       "created": "2026-02-09T06:38:46Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/blog",
-      "created": "2026-02-09T06:37:25Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/1033-Program-Map",
-      "created": "2026-02-09T00:01:54Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/1033-Program-Map",
-      "created": "2026-02-08T23:58:24Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/1033-Program-Map",
-      "created": "2026-02-08T23:48:16Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
