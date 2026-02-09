@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T00:32:03.654Z",
+  "lastUpdated": "2026-02-09T06:28:58.882Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 145,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3072818,
+    "totalSize": 3072709,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -77,6 +77,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-02-09T00:32:07Z",
+        "topics": []
+      },
+      {
         "name": "Praised",
         "description": "agent repo",
         "url": "https://github.com/michaelcolenso/Praised",
@@ -84,16 +94,6 @@
         "forks": 0,
         "language": "TypeScript",
         "updated": "2026-02-08T23:41:41Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-08T18:10:23Z",
         "topics": []
       },
       {
