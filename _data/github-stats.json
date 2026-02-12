@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T00:31:05.510Z",
+  "lastUpdated": "2026-02-12T06:28:01.664Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,22 +7,22 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 145,
+    "publicRepos": 146,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 145,
+    "total": 146,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3072731,
+    "totalSize": 3072767,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "33.1"
+        "percentage": "32.9"
       },
       {
         "name": "Ruby",
@@ -32,12 +32,12 @@
       {
         "name": "Python",
         "count": 14,
-        "percentage": "9.7"
+        "percentage": "9.6"
       },
       {
         "name": "HTML",
         "count": 10,
-        "percentage": "6.9"
+        "percentage": "6.8"
       },
       {
         "name": "TypeScript",
@@ -87,23 +87,23 @@
         "topics": []
       },
       {
+        "name": "effective-journey",
+        "description": "blank $late",
+        "url": "https://github.com/michaelcolenso/effective-journey",
+        "stars": 0,
+        "forks": 0,
+        "language": null,
+        "updated": "2026-02-12T02:14:37Z",
+        "topics": []
+      },
+      {
         "name": "profile",
         "description": null,
         "url": "https://github.com/michaelcolenso/profile",
         "stars": 0,
         "forks": 0,
         "language": "HTML",
-        "updated": "2026-02-11T18:24:30Z",
-        "topics": []
-      },
-      {
-        "name": "Praised",
-        "description": "agent repo",
-        "url": "https://github.com/michaelcolenso/Praised",
-        "stars": 0,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-02-08T23:41:41Z",
+        "updated": "2026-02-12T00:31:09Z",
         "topics": []
       }
     ]
@@ -113,6 +113,18 @@
     "total": 1000
   },
   "recentActivity": [
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/effective-journey",
+      "created": "2026-02-12T02:38:50Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/effective-journey",
+      "created": "2026-02-12T02:14:34Z",
+      "action": "Created branch"
+    },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/mikepage",
@@ -130,18 +142,6 @@
       "repo": "michaelcolenso/blog",
       "created": "2026-02-09T17:04:20Z",
       "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/blog",
-      "created": "2026-02-09T17:02:17Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/blog",
-      "created": "2026-02-09T06:38:46Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
