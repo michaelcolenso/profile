@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T18:22:45.614Z",
+  "lastUpdated": "2026-02-13T00:33:17.334Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 146,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3072799,
+    "totalSize": 3072801,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -87,6 +87,16 @@
         "topics": []
       },
       {
+        "name": "profile",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/profile",
+        "stars": 0,
+        "forks": 0,
+        "language": "HTML",
+        "updated": "2026-02-12T18:22:50Z",
+        "topics": []
+      },
+      {
         "name": "effective-journey",
         "description": "blank $late",
         "url": "https://github.com/michaelcolenso/effective-journey",
@@ -94,16 +104,6 @@
         "forks": 0,
         "language": "TypeScript",
         "updated": "2026-02-12T14:25:34Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-12T12:18:18Z",
         "topics": []
       }
     ]
