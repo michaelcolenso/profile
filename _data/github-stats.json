@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-02-23T12:17:39.079Z",
+  "lastUpdated": "2026-02-23T18:24:37.612Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
     "bio": "enthusiastic participant.",
     "location": "Seattle, WA",
-    "followers": 24,
+    "followers": 25,
     "following": 44,
     "publicRepos": 148,
     "publicGists": 70,
@@ -17,7 +17,7 @@
     "total": 148,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3073140,
+    "totalSize": 3073154,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -25,14 +25,14 @@
         "percentage": "31.8"
       },
       {
-        "name": "Ruby",
+        "name": "Python",
         "count": 15,
         "percentage": "10.1"
       },
       {
-        "name": "Python",
-        "count": 14,
-        "percentage": "9.5"
+        "name": "Ruby",
+        "count": 15,
+        "percentage": "10.1"
       },
       {
         "name": "HTML",
@@ -41,8 +41,8 @@
       },
       {
         "name": "TypeScript",
-        "count": 9,
-        "percentage": "6.1"
+        "count": 8,
+        "percentage": "5.4"
       }
     ],
     "featured": [
@@ -97,13 +97,13 @@
         "topics": []
       },
       {
-        "name": "ideas",
-        "description": "digital products",
-        "url": "https://github.com/michaelcolenso/ideas",
+        "name": "BrokenSite-Weekly",
+        "description": "Weekly leads from broken local websites.",
+        "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
         "stars": 0,
         "forks": 0,
-        "language": null,
-        "updated": "2026-02-23T08:21:51Z",
+        "language": "Python",
+        "updated": "2026-02-23T13:55:02Z",
         "topics": []
       }
     ]
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
+      "type": "WatchEvent",
+      "repo": "microsoft/PowerToys",
+      "created": "2026-02-23T14:06:11Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-02-23T13:54:57Z",
+      "action": "merged pull request"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/seattlejoy",
-      "created": "2026-02-23T11:17:22Z",
+      "repo": "michaelcolenso/BrokenSite-Weekly",
+      "created": "2026-02-23T13:54:59Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/ideas",
-      "created": "2026-02-23T08:21:48Z",
-      "action": "Created branch"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/mindcrime",
+      "created": "2026-02-23T13:54:22Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/michaelcolenso.github.io",
-      "created": "2026-02-23T08:19:10Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/michaelcolenso.github.io",
-      "created": "2026-02-23T02:38:05Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/michaelcolenso.github.io",
-      "created": "2026-02-23T02:35:56Z",
+      "repo": "michaelcolenso/mindcrime",
+      "created": "2026-02-23T13:54:23Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
