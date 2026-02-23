@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T06:29:06.074Z",
+  "lastUpdated": "2026-02-23T12:17:39.079Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,27 +7,27 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 147,
+    "publicRepos": 148,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 147,
+    "total": 148,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3073544,
+    "totalSize": 3073140,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 47,
-        "percentage": "32.0"
+        "percentage": "31.8"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "10.2"
+        "percentage": "10.1"
       },
       {
         "name": "Python",
@@ -37,7 +37,7 @@
       {
         "name": "HTML",
         "count": 11,
-        "percentage": "7.5"
+        "percentage": "7.4"
       },
       {
         "name": "TypeScript",
@@ -67,6 +67,16 @@
         "topics": []
       },
       {
+        "name": "seattlejoy",
+        "description": "maps about seattle and whatnot.",
+        "url": "https://github.com/michaelcolenso/seattlejoy",
+        "stars": 1,
+        "forks": 0,
+        "language": "JavaScript",
+        "updated": "2026-02-23T11:17:27Z",
+        "topics": []
+      },
+      {
         "name": "blog",
         "description": "michaelcolenso.com/blog",
         "url": "https://github.com/michaelcolenso/blog",
@@ -87,23 +97,13 @@
         "topics": []
       },
       {
-        "name": "michaelcolenso.github.io",
-        "description": "michaelcolenso: github pages",
-        "url": "https://github.com/michaelcolenso/michaelcolenso.github.io",
+        "name": "ideas",
+        "description": "digital products",
+        "url": "https://github.com/michaelcolenso/ideas",
         "stars": 0,
         "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-23T02:38:08Z",
-        "topics": []
-      },
-      {
-        "name": "profile",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/profile",
-        "stars": 0,
-        "forks": 0,
-        "language": "HTML",
-        "updated": "2026-02-23T00:31:36Z",
+        "language": null,
+        "updated": "2026-02-23T08:21:51Z",
         "topics": []
       }
     ]
@@ -115,6 +115,24 @@
   "recentActivity": [
     {
       "type": "PushEvent",
+      "repo": "michaelcolenso/seattlejoy",
+      "created": "2026-02-23T11:17:22Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/ideas",
+      "created": "2026-02-23T08:21:48Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/michaelcolenso.github.io",
+      "created": "2026-02-23T08:19:10Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
       "repo": "michaelcolenso/michaelcolenso.github.io",
       "created": "2026-02-23T02:38:05Z",
       "action": "Pushed undefined commit(s)"
@@ -123,24 +141,6 @@
       "type": "PushEvent",
       "repo": "michaelcolenso/michaelcolenso.github.io",
       "created": "2026-02-23T02:35:56Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/michaelcolenso.github.io",
-      "created": "2026-02-23T02:29:22Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/michaelcolenso.github.io",
-      "created": "2026-02-23T02:29:14Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/1033-Program-Map",
-      "created": "2026-02-23T02:28:12Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
