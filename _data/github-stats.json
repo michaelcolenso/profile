@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T06:25:32.819Z",
+  "lastUpdated": "2026-02-24T12:18:22.397Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 151,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3073372,
+    "totalSize": 3077136,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -26,8 +26,8 @@
       },
       {
         "name": "Python",
-        "count": 15,
-        "percentage": "9.9"
+        "count": 16,
+        "percentage": "10.6"
       },
       {
         "name": "Ruby",
@@ -36,13 +36,13 @@
       },
       {
         "name": "HTML",
-        "count": 11,
-        "percentage": "7.3"
+        "count": 10,
+        "percentage": "6.6"
       },
       {
         "name": "TypeScript",
-        "count": 8,
-        "percentage": "5.3"
+        "count": 9,
+        "percentage": "6.0"
       }
     ],
     "featured": [
@@ -64,6 +64,16 @@
         "forks": 0,
         "language": "JavaScript",
         "updated": "2026-02-23T02:28:15Z",
+        "topics": []
+      },
+      {
+        "name": "client-facing-digital-work",
+        "description": "some stuff ive done on the internet for people",
+        "url": "https://github.com/michaelcolenso/client-facing-digital-work",
+        "stars": 1,
+        "forks": 0,
+        "language": "TypeScript",
+        "updated": "2026-02-24T12:07:28Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "Astro",
         "updated": "2026-01-29T07:53:41Z",
         "topics": []
-      },
-      {
-        "name": "Wedding-survival-guide",
-        "description": "Survive and thrive ",
-        "url": "https://github.com/michaelcolenso/Wedding-survival-guide",
-        "stars": 0,
-        "forks": 0,
-        "language": null,
-        "updated": "2026-02-24T04:54:09Z",
-        "topics": []
       }
     ]
   },
@@ -115,33 +115,33 @@
   "recentActivity": [
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/Wedding-survival-guide",
-      "created": "2026-02-24T04:54:06Z",
+      "repo": "michaelcolenso/GPFK",
+      "created": "2026-02-24T12:13:05Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/Wedding-survival-guide",
-      "created": "2026-02-24T03:29:19Z",
-      "action": "Created branch"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/GPFK",
+      "created": "2026-02-24T12:13:03Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/GPFK",
+      "created": "2026-02-24T12:12:12Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/client-facing-digital-work",
+      "created": "2026-02-24T12:07:24Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/product-hunt-launcher-",
-      "created": "2026-02-24T03:19:38Z",
+      "repo": "michaelcolenso/client-facing-digital-work",
+      "created": "2026-02-24T12:07:25Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/product-hunt-launcher-",
-      "created": "2026-02-24T03:19:01Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/Renovation-Survival-Guide",
-      "created": "2026-02-23T22:50:44Z",
-      "action": "Created branch"
     }
   ]
 }
