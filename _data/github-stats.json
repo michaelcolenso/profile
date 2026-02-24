@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T12:18:22.397Z",
+  "lastUpdated": "2026-02-24T18:23:32.397Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 151,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3077136,
+    "totalSize": 3082429,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -26,8 +26,8 @@
       },
       {
         "name": "Python",
-        "count": 16,
-        "percentage": "10.6"
+        "count": 17,
+        "percentage": "11.3"
       },
       {
         "name": "Ruby",
@@ -41,8 +41,8 @@
       },
       {
         "name": "TypeScript",
-        "count": 9,
-        "percentage": "6.0"
+        "count": 10,
+        "percentage": "6.6"
       }
     ],
     "featured": [
@@ -67,13 +67,13 @@
         "topics": []
       },
       {
-        "name": "client-facing-digital-work",
-        "description": "some stuff ive done on the internet for people",
-        "url": "https://github.com/michaelcolenso/client-facing-digital-work",
+        "name": "work-in-place",
+        "description": null,
+        "url": "https://github.com/michaelcolenso/work-in-place",
         "stars": 1,
         "forks": 0,
         "language": "TypeScript",
-        "updated": "2026-02-24T12:07:28Z",
+        "updated": "2026-02-24T12:26:10Z",
         "topics": []
       },
       {
@@ -83,7 +83,17 @@
         "stars": 1,
         "forks": 0,
         "language": "JavaScript",
-        "updated": "2026-02-23T11:17:27Z",
+        "updated": "2026-02-24T12:25:06Z",
+        "topics": []
+      },
+      {
+        "name": "client-facing-digital-work",
+        "description": "some stuff ive done on the internet for people",
+        "url": "https://github.com/michaelcolenso/client-facing-digital-work",
+        "stars": 1,
+        "forks": 0,
+        "language": "TypeScript",
+        "updated": "2026-02-24T12:07:28Z",
         "topics": []
       },
       {
@@ -95,16 +105,6 @@
         "language": "Ruby",
         "updated": "2026-02-09T17:04:25Z",
         "topics": []
-      },
-      {
-        "name": "michaelcolenso",
-        "description": "problem solver",
-        "url": "https://github.com/michaelcolenso/michaelcolenso",
-        "stars": 1,
-        "forks": 0,
-        "language": "Astro",
-        "updated": "2026-01-29T07:53:41Z",
-        "topics": []
       }
     ]
   },
@@ -115,32 +115,32 @@
   "recentActivity": [
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/GPFK",
-      "created": "2026-02-24T12:13:05Z",
+      "repo": "michaelcolenso/Refract",
+      "created": "2026-02-24T14:23:26Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/GPFK",
-      "created": "2026-02-24T12:13:03Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/GPFK",
-      "created": "2026-02-24T12:12:12Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/client-facing-digital-work",
-      "created": "2026-02-24T12:07:24Z",
-      "action": "merged pull request"
+      "type": "PushEvent",
+      "repo": "michaelcolenso/mindcrime",
+      "created": "2026-02-24T13:54:16Z",
+      "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/client-facing-digital-work",
-      "created": "2026-02-24T12:07:25Z",
+      "repo": "michaelcolenso/seattlejoy",
+      "created": "2026-02-24T13:43:53Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/mindcrime",
+      "created": "2026-02-24T13:43:26Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/seattlejoy",
+      "created": "2026-02-24T13:43:22Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
