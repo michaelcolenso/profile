@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T06:25:18.359Z",
+  "lastUpdated": "2026-02-26T12:18:16.671Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,42 +7,42 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 153,
+    "publicRepos": 154,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 153,
+    "total": 154,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3082579,
+    "totalSize": 3082771,
     "topLanguages": [
       {
         "name": "JavaScript",
-        "count": 47,
-        "percentage": "30.7"
+        "count": 48,
+        "percentage": "31.2"
       },
       {
         "name": "Python",
         "count": 17,
-        "percentage": "11.1"
+        "percentage": "11.0"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "9.8"
+        "percentage": "9.7"
+      },
+      {
+        "name": "TypeScript",
+        "count": 11,
+        "percentage": "7.1"
       },
       {
         "name": "HTML",
         "count": 11,
-        "percentage": "7.2"
-      },
-      {
-        "name": "TypeScript",
-        "count": 10,
-        "percentage": "6.5"
+        "percentage": "7.1"
       }
     ],
     "featured": [
@@ -115,33 +115,33 @@
   "recentActivity": [
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/ADU-guide",
-      "created": "2026-02-26T06:11:45Z",
+      "repo": "michaelcolenso/Traffic-camera-feed",
+      "created": "2026-02-26T11:06:59Z",
       "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Traffic-camera-feed",
+      "created": "2026-02-26T11:06:06Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Traffic-camera-feed",
+      "created": "2026-02-26T11:06:05Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/Traffic-camera-feed",
+      "created": "2026-02-26T11:05:49Z",
+      "action": "opened pull request"
     },
     {
       "type": "CreateEvent",
-      "repo": "michaelcolenso/ADU-guide",
-      "created": "2026-02-26T06:09:11Z",
+      "repo": "michaelcolenso/Traffic-camera-feed",
+      "created": "2026-02-26T11:01:56Z",
       "action": "Created branch"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Sentquote",
-      "created": "2026-02-25T05:58:46Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Sentquote",
-      "created": "2026-02-25T04:44:41Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Sentquote",
-      "created": "2026-02-25T04:41:28Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
