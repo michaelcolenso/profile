@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T00:31:29.049Z",
+  "lastUpdated": "2026-03-03T06:19:56.488Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 158,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3083712,
+    "totalSize": 3083720,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -35,12 +35,12 @@
         "percentage": "9.5"
       },
       {
-        "name": "TypeScript",
+        "name": "HTML",
         "count": 11,
         "percentage": "7.0"
       },
       {
-        "name": "HTML",
+        "name": "TypeScript",
         "count": 11,
         "percentage": "7.0"
       }
