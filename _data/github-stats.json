@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T12:13:55.330Z",
+  "lastUpdated": "2026-03-06T18:14:51.334Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,42 +7,42 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 160,
+    "publicRepos": 161,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 160,
+    "total": 161,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3084034,
+    "totalSize": 3084147,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "30.0"
+        "percentage": "29.8"
       },
       {
         "name": "Python",
-        "count": 21,
-        "percentage": "13.1"
+        "count": 22,
+        "percentage": "13.7"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "9.4"
+        "percentage": "9.3"
       },
       {
         "name": "HTML",
         "count": 11,
-        "percentage": "6.9"
+        "percentage": "6.8"
       },
       {
         "name": "TypeScript",
         "count": 11,
-        "percentage": "6.9"
+        "percentage": "6.8"
       }
     ],
     "featured": [
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "ForkEvent",
-      "repo": "FujiwaraChoki/MoneyPrinterV2",
-      "created": "2026-03-06T06:43:34Z",
-      "action": "Forked repository"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-06T06:35:25Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-06T06:35:21Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-06T06:34:54Z",
+      "repo": "michaelcolenso/codex-seo-machine",
+      "created": "2026-03-06T14:32:53Z",
       "action": "labeled pull request"
     },
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/codex-seo-machine",
+      "created": "2026-03-06T14:32:53Z",
+      "action": "opened pull request"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-06T06:34:54Z",
+      "repo": "michaelcolenso/codex-seo-machine",
+      "created": "2026-03-06T14:32:53Z",
       "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/codex-seo-machine",
+      "created": "2026-03-06T14:32:51Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/codex-seo-machine",
+      "created": "2026-03-06T13:29:04Z",
+      "action": "labeled pull request"
     }
   ]
 }
