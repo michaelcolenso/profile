@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T06:18:32.638Z",
+  "lastUpdated": "2026-03-06T12:13:55.330Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,27 +7,27 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 159,
+    "publicRepos": 160,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 159,
+    "total": 160,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3083798,
+    "totalSize": 3084034,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "30.2"
+        "percentage": "30.0"
       },
       {
         "name": "Python",
         "count": 21,
-        "percentage": "13.2"
+        "percentage": "13.1"
       },
       {
         "name": "Ruby",
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-06T06:00:15Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "ForkEvent",
+      "repo": "FujiwaraChoki/MoneyPrinterV2",
+      "created": "2026-03-06T06:43:34Z",
+      "action": "Forked repository"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-06T03:06:53Z",
+      "created": "2026-03-06T06:35:25Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-06T03:06:51Z",
+      "created": "2026-03-06T06:35:21Z",
       "action": "merged pull request"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-06T03:06:26Z",
+      "created": "2026-03-06T06:34:54Z",
       "action": "labeled pull request"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-06T03:06:25Z",
+      "created": "2026-03-06T06:34:54Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
