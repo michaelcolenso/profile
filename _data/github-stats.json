@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T00:29:47.712Z",
+  "lastUpdated": "2026-03-07T06:12:54.524Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,27 +7,27 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 161,
+    "publicRepos": 162,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 161,
+    "total": 162,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3084119,
+    "totalSize": 3084183,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "29.8"
+        "percentage": "29.6"
       },
       {
         "name": "Python",
         "count": 22,
-        "percentage": "13.7"
+        "percentage": "13.6"
       },
       {
         "name": "Ruby",
@@ -35,12 +35,12 @@
         "percentage": "9.3"
       },
       {
-        "name": "HTML",
-        "count": 11,
-        "percentage": "6.8"
+        "name": "TypeScript",
+        "count": 12,
+        "percentage": "7.4"
       },
       {
-        "name": "TypeScript",
+        "name": "HTML",
         "count": 11,
         "percentage": "6.8"
       }
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "WatchEvent",
-      "repo": "steipete/gogcli",
-      "created": "2026-03-07T00:27:05Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "github/gh-aw",
-      "created": "2026-03-07T00:26:50Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/MoneyPrinterV2",
-      "created": "2026-03-06T21:38:08Z",
-      "action": "Created branch"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/standard-works",
+      "created": "2026-03-07T05:57:22Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/codex-seo-machine",
-      "created": "2026-03-06T21:32:33Z",
+      "repo": "michaelcolenso/standard-works",
+      "created": "2026-03-07T05:57:23Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/codex-seo-machine",
-      "created": "2026-03-06T14:32:53Z",
+      "repo": "michaelcolenso/notebooks",
+      "created": "2026-03-07T05:57:00Z",
       "action": "labeled pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/notebooks",
+      "created": "2026-03-07T05:57:00Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/notebooks",
+      "created": "2026-03-07T05:57:00Z",
+      "action": "opened pull request"
     }
   ]
 }
