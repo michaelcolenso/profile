@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T00:27:28.423Z",
+  "lastUpdated": "2026-03-10T06:18:23.569Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,27 +7,27 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 164,
+    "publicRepos": 165,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 164,
+    "total": 165,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3090039,
+    "totalSize": 3090522,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "29.3"
+        "percentage": "29.1"
       },
       {
         "name": "Python",
         "count": 22,
-        "percentage": "13.4"
+        "percentage": "13.3"
       },
       {
         "name": "Ruby",
@@ -36,8 +36,8 @@
       },
       {
         "name": "TypeScript",
-        "count": 13,
-        "percentage": "7.9"
+        "count": 14,
+        "percentage": "8.5"
       },
       {
         "name": "HTML",
@@ -114,6 +114,18 @@
   },
   "recentActivity": [
     {
+      "type": "WatchEvent",
+      "repo": "miantiao-me/cloud-claw",
+      "created": "2026-03-10T01:46:32Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/workflows-starter-template",
+      "created": "2026-03-10T00:31:06Z",
+      "action": "Created branch"
+    },
+    {
       "type": "PushEvent",
       "repo": "michaelcolenso/seattlejoy",
       "created": "2026-03-09T23:40:41Z",
@@ -130,18 +142,6 @@
       "repo": "michaelcolenso/seattlejoy",
       "created": "2026-03-09T23:40:19Z",
       "action": "opened pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-09T22:25:14Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/knowledge-product-factory",
-      "created": "2026-03-09T22:25:15Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
