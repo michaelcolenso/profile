@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T06:21:29.634Z",
+  "lastUpdated": "2026-03-12T12:14:29.067Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 165,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3090618,
+    "totalSize": 3090619,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -114,6 +114,12 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-03-11T09:48:20Z",
+      "action": "closed pull request"
+    },
+    {
       "type": "PushEvent",
       "repo": "michaelcolenso/recall-radar",
       "created": "2026-03-12T03:23:12Z",
@@ -136,12 +142,6 @@
       "repo": "michaelcolenso/recall-radar",
       "created": "2026-03-12T03:22:20Z",
       "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-03-12T03:21:58Z",
-      "action": "labeled pull request"
     }
   ]
 }
