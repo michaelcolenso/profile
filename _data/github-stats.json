@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T06:20:43.823Z",
+  "lastUpdated": "2026-03-13T12:14:55.067Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 165,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3090622,
+    "totalSize": 3090623,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -114,6 +114,18 @@
   },
   "recentActivity": [
     {
+      "type": "WatchEvent",
+      "repo": "VoltAgent/awesome-openclaw-skills",
+      "created": "2026-03-13T10:01:53Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "msitarzewski/agency-agents",
+      "created": "2026-03-13T09:56:14Z",
+      "action": "Starred repository"
+    },
+    {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/recall-radar",
       "created": "2026-03-11T09:48:20Z",
@@ -129,18 +141,6 @@
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/recall-radar",
       "created": "2026-03-12T03:23:10Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-03-12T03:22:21Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-03-12T03:22:20Z",
       "action": "merged pull request"
     }
   ]
