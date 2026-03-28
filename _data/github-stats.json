@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T12:13:55.007Z",
+  "lastUpdated": "2026-03-28T18:11:06.662Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,37 +7,37 @@
     "location": "Seattle, WA",
     "followers": 25,
     "following": 44,
-    "publicRepos": 169,
+    "publicRepos": 170,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 169,
+    "total": 170,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3090906,
+    "totalSize": 3090958,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "28.4"
+        "percentage": "28.2"
       },
       {
         "name": "Python",
-        "count": 23,
-        "percentage": "13.6"
+        "count": 24,
+        "percentage": "14.1"
       },
       {
         "name": "TypeScript",
         "count": 15,
-        "percentage": "8.9"
+        "percentage": "8.8"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "8.9"
+        "percentage": "8.8"
       },
       {
         "name": "HTML",
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/symmetrical-garbanzo",
-      "created": "2026-03-28T11:59:39Z",
-      "action": "merged pull request"
+      "type": "WatchEvent",
+      "repo": "bytedance/deer-flow",
+      "created": "2026-03-28T17:01:02Z",
+      "action": "Starred repository"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/symmetrical-garbanzo",
-      "created": "2026-03-28T11:59:40Z",
+      "repo": "michaelcolenso/fictional-telegram",
+      "created": "2026-03-28T13:31:44Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/symmetrical-garbanzo",
-      "created": "2026-03-28T11:59:19Z",
-      "action": "labeled pull request"
+      "type": "PushEvent",
+      "repo": "michaelcolenso/fictional-telegram",
+      "created": "2026-03-28T13:29:39Z",
+      "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/symmetrical-garbanzo",
-      "created": "2026-03-28T11:59:19Z",
-      "action": "opened pull request"
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/fictional-telegram",
+      "created": "2026-03-28T12:59:34Z",
+      "action": "Created branch"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/symmetrical-garbanzo",
-      "created": "2026-03-28T11:59:19Z",
+      "repo": "michaelcolenso/codex-seo-machine",
+      "created": "2026-03-28T12:53:47Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
