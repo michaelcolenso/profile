@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T00:34:51.480Z",
+  "lastUpdated": "2026-04-03T06:30:43.998Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 171,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3092418,
+    "totalSize": 3092728,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/agentic-arbitrage",
-      "created": "2026-04-02T21:05:30Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "zyronon/TypeWords",
-      "created": "2026-04-02T20:05:35Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "Yeachan-Heo/oh-my-codex",
-      "created": "2026-04-02T19:58:46Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "snarktank/clawchief",
-      "created": "2026-04-02T19:50:42Z",
-      "action": "Starred repository"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-04-03T02:42:28Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-04-01T05:08:08Z",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-04-03T02:42:29Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-04-03T02:42:04Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "DeleteEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-04-03T02:23:51Z",
+      "action": "DeleteEvent"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/mikepage",
+      "created": "2026-04-03T02:23:50Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
