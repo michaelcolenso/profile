@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T18:21:40.980Z",
+  "lastUpdated": "2026-04-03T00:34:51.480Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,27 +7,27 @@
     "location": "Seattle, WA",
     "followers": 25,
     "following": 44,
-    "publicRepos": 170,
+    "publicRepos": 171,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 170,
+    "total": 171,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3092371,
+    "totalSize": 3092418,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "28.2"
+        "percentage": "28.1"
       },
       {
         "name": "Python",
-        "count": 24,
-        "percentage": "14.1"
+        "count": 25,
+        "percentage": "14.6"
       },
       {
         "name": "TypeScript",
@@ -42,7 +42,7 @@
       {
         "name": "HTML",
         "count": 11,
-        "percentage": "6.5"
+        "percentage": "6.4"
       }
     ],
     "featured": [
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/agentic-arbitrage",
+      "created": "2026-04-02T21:05:30Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "zyronon/TypeWords",
+      "created": "2026-04-02T20:05:35Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "Yeachan-Heo/oh-my-codex",
+      "created": "2026-04-02T19:58:46Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "snarktank/clawchief",
+      "created": "2026-04-02T19:50:42Z",
+      "action": "Starred repository"
+    },
+    {
       "type": "PushEvent",
       "repo": "michaelcolenso/recall-radar",
       "created": "2026-04-01T05:08:08Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "Astrosp/Awesome-OSINT-For-Everything",
-      "created": "2026-03-31T22:32:43Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-03-31T22:32:20Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-03-31T22:32:21Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-03-31T22:31:48Z",
-      "action": "opened pull request"
     }
   ]
 }
