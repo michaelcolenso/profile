@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T18:15:35.853Z",
+  "lastUpdated": "2026-04-04T00:32:47.311Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 171,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3092774,
+    "totalSize": 3092775,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -114,6 +114,12 @@
   },
   "recentActivity": [
     {
+      "type": "WatchEvent",
+      "repo": "ptsouchlos/modern-cv",
+      "created": "2026-04-03T19:37:02Z",
+      "action": "Starred repository"
+    },
+    {
       "type": "PushEvent",
       "repo": "michaelcolenso/Proteus",
       "created": "2026-04-03T10:47:47Z",
@@ -136,12 +142,6 @@
       "repo": "michaelcolenso/Proteus",
       "created": "2026-04-03T10:41:51Z",
       "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-04-03T10:35:40Z",
-      "action": "labeled pull request"
     }
   ]
 }
