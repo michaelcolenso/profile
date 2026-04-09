@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T06:37:08.449Z",
+  "lastUpdated": "2026-04-09T12:26:49.978Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 172,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3101314,
+    "totalSize": 3101386,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -26,8 +26,8 @@
       },
       {
         "name": "Python",
-        "count": 27,
-        "percentage": "15.7"
+        "count": 26,
+        "percentage": "15.1"
       },
       {
         "name": "TypeScript",
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/book-project",
-      "created": "2026-04-08T11:57:12Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "WatchEvent",
+      "repo": "SonicJs-Org/sonicjs",
+      "created": "2026-04-09T11:28:59Z",
+      "action": "Starred repository"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/book-project",
-      "created": "2026-04-07T04:33:30Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/book-project",
-      "created": "2026-04-06T23:44:43Z",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-04-09T10:47:24Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/book-project",
-      "created": "2026-04-06T23:44:41Z",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-04-09T10:47:23Z",
       "action": "merged pull request"
     },
     {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-04-09T10:37:29Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/book-project",
-      "created": "2026-04-06T23:41:54Z",
-      "action": "labeled pull request"
+      "repo": "michaelcolenso/Proteus",
+      "created": "2026-04-09T10:35:41Z",
+      "action": "opened pull request"
     }
   ]
 }
