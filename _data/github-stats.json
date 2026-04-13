@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T06:49:35.108Z",
+  "lastUpdated": "2026-04-13T12:28:00.313Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 172,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3101544,
+    "totalSize": 3101701,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/book-project",
+      "created": "2026-04-13T11:57:35Z",
+      "action": "merged pull request"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/paydirt",
-      "created": "2026-04-11T13:43:24Z",
+      "repo": "michaelcolenso/book-project",
+      "created": "2026-04-13T11:57:36Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/paydirt",
-      "created": "2026-04-11T13:43:23Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/paydirt",
-      "created": "2026-04-11T13:41:25Z",
+      "repo": "michaelcolenso/book-project",
+      "created": "2026-04-13T11:33:06Z",
       "action": "opened pull request"
     },
     {
       "type": "CreateEvent",
-      "repo": "michaelcolenso/paydirt",
-      "created": "2026-04-11T13:41:06Z",
+      "repo": "michaelcolenso/book-project",
+      "created": "2026-04-13T11:33:01Z",
       "action": "Created branch"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/agentic-arbitrage",
-      "created": "2026-04-11T12:35:53Z",
+      "repo": "michaelcolenso/book-project",
+      "created": "2026-04-13T11:16:29Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
