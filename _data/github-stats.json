@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T06:42:38.402Z",
+  "lastUpdated": "2026-04-22T12:26:55.274Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 173,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3105081,
+    "totalSize": 3105126,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -41,8 +41,8 @@
       },
       {
         "name": "HTML",
-        "count": 11,
-        "percentage": "6.4"
+        "count": 10,
+        "percentage": "5.8"
       }
     ],
     "featured": [
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
+      "type": "DeleteEvent",
+      "repo": "michaelcolenso/michaelcolenso.github.io",
+      "created": "2026-04-22T10:23:59Z",
+      "action": "DeleteEvent"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-04-21T07:48:33Z",
+      "repo": "michaelcolenso/michaelcolenso.github.io",
+      "created": "2026-04-22T10:23:57Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-04-21T07:48:32Z",
+      "repo": "michaelcolenso/michaelcolenso.github.io",
+      "created": "2026-04-22T10:23:56Z",
       "action": "merged pull request"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-04-21T07:47:50Z",
-      "action": "labeled pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-04-21T07:47:50Z",
+      "repo": "michaelcolenso/michaelcolenso.github.io",
+      "created": "2026-04-22T10:16:14Z",
       "action": "opened pull request"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-04-21T07:47:50Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/michaelcolenso.github.io",
+      "created": "2026-04-22T10:15:31Z",
+      "action": "Created branch"
     }
   ]
 }
