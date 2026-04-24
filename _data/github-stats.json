@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T06:43:56.911Z",
+  "lastUpdated": "2026-04-24T12:26:18.483Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,37 +7,37 @@
     "location": "Seattle, WA",
     "followers": 25,
     "following": 44,
-    "publicRepos": 174,
+    "publicRepos": 176,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 174,
+    "total": 176,
     "totalStars": 79,
     "totalForks": 2,
-    "totalSize": 3105133,
+    "totalSize": 3108366,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "27.6"
+        "percentage": "27.3"
       },
       {
         "name": "Python",
         "count": 27,
-        "percentage": "15.5"
+        "percentage": "15.3"
       },
       {
         "name": "TypeScript",
         "count": 16,
-        "percentage": "9.2"
+        "percentage": "9.1"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "8.6"
+        "percentage": "8.5"
       },
       {
         "name": "HTML",
@@ -109,39 +109,39 @@
     ]
   },
   "contributions": {
-    "thisYear": 200,
-    "total": 1000
+    "thisYear": 198,
+    "total": 990
   },
   "recentActivity": [
     {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-04-24T11:00:37Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "Alishahryar1/free-claude-code",
+      "created": "2026-04-24T10:48:39Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/building-america",
+      "created": "2026-04-24T10:21:42Z",
+      "action": "Created branch"
+    },
+    {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/babynames",
-      "created": "2026-04-24T06:23:47Z",
+      "created": "2026-04-24T08:24:24Z",
       "action": "merged pull request"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/babynames",
-      "created": "2026-04-24T06:23:48Z",
+      "created": "2026-04-24T08:24:25Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-04-24T06:09:26Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-04-24T06:08:57Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "DeleteEvent",
-      "repo": "michaelcolenso/michaelcolenso.github.io",
-      "created": "2026-04-22T10:23:59Z",
-      "action": "DeleteEvent"
     }
   ]
 }
