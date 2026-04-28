@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T06:59:28.486Z",
+  "lastUpdated": "2026-04-28T12:41:10.994Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 177,
     "totalStars": 80,
     "totalForks": 2,
-    "totalSize": 3112358,
+    "totalSize": 3113421,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -41,8 +41,8 @@
       },
       {
         "name": "HTML",
-        "count": 10,
-        "percentage": "5.6"
+        "count": 11,
+        "percentage": "6.2"
       }
     ],
     "featured": [
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
-      "type": "DeleteEvent",
+      "type": "PushEvent",
       "repo": "michaelcolenso/name-vitals",
-      "created": "2026-04-27T15:52:55Z",
+      "created": "2026-04-28T10:52:06Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "DeleteEvent",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-04-28T08:48:10Z",
       "action": "DeleteEvent"
     },
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/name-vitals",
-      "created": "2026-04-27T15:50:48Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/name-vitals",
-      "created": "2026-04-27T15:46:56Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/building-america",
-      "created": "2026-04-26T00:52:45Z",
-      "action": "Created branch"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-04-28T08:48:06Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-04-25T20:52:15Z",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-04-28T08:48:07Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-04-28T07:45:42Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
