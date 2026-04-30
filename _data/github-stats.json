@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T00:46:01.483Z",
+  "lastUpdated": "2026-04-30T06:57:15.951Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 177,
     "totalStars": 80,
     "totalForks": 2,
-    "totalSize": 3115851,
+    "totalSize": 3115852,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -112,36 +112,5 @@
     "thisYear": 198,
     "total": 990
   },
-  "recentActivity": [
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-04-29T23:33:31Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-04-29T23:28:09Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-04-29T23:14:01Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-04-29T22:42:52Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-04-29T22:36:30Z",
-      "action": "Pushed undefined commit(s)"
-    }
-  ]
+  "recentActivity": []
 }
