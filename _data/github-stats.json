@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T06:55:45.542Z",
+  "lastUpdated": "2026-05-03T12:22:00.915Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,27 +7,27 @@
     "location": "Seattle, WA",
     "followers": 25,
     "following": 44,
-    "publicRepos": 177,
+    "publicRepos": 178,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 177,
+    "total": 178,
     "totalStars": 80,
     "totalForks": 2,
-    "totalSize": 3127348,
+    "totalSize": 3144068,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "27.1"
+        "percentage": "27.0"
       },
       {
         "name": "Python",
         "count": 27,
-        "percentage": "15.3"
+        "percentage": "15.2"
       },
       {
         "name": "TypeScript",
@@ -37,7 +37,7 @@
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "8.5"
+        "percentage": "8.4"
       },
       {
         "name": "HTML",
@@ -114,34 +114,34 @@
   },
   "recentActivity": [
     {
-      "type": "WatchEvent",
+      "type": "ForkEvent",
       "repo": "soxoj/maigret",
-      "created": "2026-05-03T05:39:57Z",
-      "action": "Starred repository"
+      "created": "2026-05-03T10:40:11Z",
+      "action": "Forked repository"
     },
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/Proteus",
-      "created": "2026-05-03T05:33:15Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "CreateEvent",
+      "type": "DeleteEvent",
       "repo": "michaelcolenso/agentic-arbitrage",
-      "created": "2026-05-02T14:42:05Z",
-      "action": "Created branch"
+      "created": "2026-05-03T09:40:57Z",
+      "action": "DeleteEvent"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/heritage-apple-hub",
-      "created": "2026-05-01T12:14:42Z",
+      "repo": "michaelcolenso/agentic-arbitrage",
+      "created": "2026-05-03T09:30:28Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/heritage-apple-hub",
-      "created": "2026-05-01T12:06:52Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/agentic-arbitrage",
+      "created": "2026-05-03T09:30:27Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/agentic-arbitrage",
+      "created": "2026-05-03T09:29:27Z",
+      "action": "opened pull request"
     }
   ]
 }
