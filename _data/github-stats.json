@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-19T07:18:58.091Z",
+  "lastUpdated": "2026-05-19T13:12:07.800Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
     "bio": "enthusiastic participant.",
     "location": "Seattle, WA",
-    "followers": 26,
+    "followers": 27,
     "following": 44,
     "publicRepos": 180,
     "publicGists": 70,
@@ -17,7 +17,7 @@
     "total": 180,
     "totalStars": 80,
     "totalForks": 2,
-    "totalSize": 3153323,
+    "totalSize": 3153302,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -109,39 +109,8 @@
     ]
   },
   "contributions": {
-    "thisYear": 200,
-    "total": 1000
+    "thisYear": 0,
+    "total": 0
   },
-  "recentActivity": [
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-05-19T07:18:53Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-05-19T05:32:55Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-05-19T05:32:47Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-05-19T05:31:43Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-05-19T05:31:44Z",
-      "action": "Pushed undefined commit(s)"
-    }
-  ]
+  "recentActivity": []
 }
