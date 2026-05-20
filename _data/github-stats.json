@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T07:19:49.048Z",
+  "lastUpdated": "2026-05-20T12:58:26.029Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 181,
     "totalStars": 80,
     "totalForks": 2,
-    "totalSize": 3171788,
+    "totalSize": 3171795,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-05-20T12:21:30Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "DeleteEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-05-20T12:19:01Z",
+      "action": "DeleteEvent"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-05-20T12:18:57Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-05-20T07:06:18Z",
-      "action": "opened pull request"
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-05-20T12:18:54Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-05-20T07:06:07Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "WatchEvent",
-      "repo": "BigBodyCobain/Shadowbroker",
-      "created": "2026-05-20T06:44:44Z",
-      "action": "Starred repository"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-05-20T02:53:38Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/nobodynamed-video",
-      "created": "2026-05-20T01:06:11Z",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-05-20T12:18:14Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
