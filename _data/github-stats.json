@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T06:59:30.873Z",
+  "lastUpdated": "2026-05-23T12:25:28.590Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 181,
     "totalStars": 80,
     "totalForks": 2,
-    "totalSize": 3172589,
+    "totalSize": 3172601,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
+      "type": "WatchEvent",
+      "repo": "yagop/node-telegram-bot-api",
+      "created": "2026-05-23T11:36:46Z",
+      "action": "Starred repository"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-05-22T17:43:15Z",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-05-23T11:21:52Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-05-22T17:43:13Z",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-05-23T11:21:51Z",
       "action": "merged pull request"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-05-22T17:42:20Z",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-05-23T11:05:06Z",
       "action": "opened pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-05-22T17:42:15Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/BrokenSite-Weekly",
-      "created": "2026-05-22T17:23:44Z",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-05-23T11:04:50Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
