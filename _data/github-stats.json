@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-26T07:18:37.805Z",
+  "lastUpdated": "2026-05-26T13:05:23.388Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
     "bio": "enthusiastic participant.",
     "location": "Seattle, WA",
-    "followers": 27,
+    "followers": 26,
     "following": 44,
     "publicRepos": 181,
     "publicGists": 70,
@@ -17,7 +17,7 @@
     "total": 181,
     "totalStars": 80,
     "totalForks": 2,
-    "totalSize": 3173042,
+    "totalSize": 3173047,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -116,6 +116,18 @@
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/babynames",
+      "created": "2026-05-26T08:05:32Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-05-26T07:39:27Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/babynames",
       "created": "2026-05-26T07:16:59Z",
       "action": "Pushed undefined commit(s)"
     },
@@ -130,18 +142,6 @@
       "repo": "michaelcolenso/babynames",
       "created": "2026-05-26T06:26:33Z",
       "action": "Created branch"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-05-26T04:47:51Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-05-26T04:47:52Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
