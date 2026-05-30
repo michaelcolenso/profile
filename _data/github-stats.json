@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-05-30T07:05:44.208Z",
+  "lastUpdated": "2026-05-30T12:29:54.176Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
     "bio": "enthusiastic participant.",
     "location": "Seattle, WA",
-    "followers": 26,
+    "followers": 25,
     "following": 44,
     "publicRepos": 181,
     "publicGists": 70,
@@ -17,7 +17,7 @@
     "total": 181,
     "totalStars": 80,
     "totalForks": 2,
-    "totalSize": 3173061,
+    "totalSize": 3173163,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -114,33 +114,33 @@
   },
   "recentActivity": [
     {
+      "type": "WatchEvent",
+      "repo": "affaan-m/ECC",
+      "created": "2026-05-30T11:55:30Z",
+      "action": "Starred repository"
+    },
+    {
+      "type": "WatchEvent",
+      "repo": "Leonxlnx/taste-skill",
+      "created": "2026-05-30T11:52:28Z",
+      "action": "Starred repository"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-05-30T06:32:49Z",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-05-30T11:32:15Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-05-30T06:32:48Z",
-      "action": "merged pull request"
-    },
-    {
-      "type": "PushEvent",
       "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-05-30T06:18:42Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-05-30T06:18:40Z",
+      "created": "2026-05-30T11:32:14Z",
       "action": "merged pull request"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-05-30T04:34:44Z",
+      "created": "2026-05-30T09:25:57Z",
       "action": "opened pull request"
     }
   ]
