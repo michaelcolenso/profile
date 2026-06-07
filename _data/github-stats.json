@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T07:28:47.448Z",
+  "lastUpdated": "2026-06-07T12:37:47.840Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -15,9 +15,9 @@
   },
   "repos": {
     "total": 181,
-    "totalStars": 80,
+    "totalStars": 83,
     "totalForks": 2,
-    "totalSize": 3174868,
+    "totalSize": 3175597,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -67,6 +67,40 @@
         "topics": []
       },
       {
+        "name": "nursinghomegrade.com",
+        "description": "nursing home grades. ",
+        "url": "https://github.com/michaelcolenso/nursinghomegrade.com",
+        "stars": 1,
+        "forks": 0,
+        "language": "TypeScript",
+        "updated": "2026-06-07T12:22:27Z",
+        "topics": []
+      },
+      {
+        "name": "BrokenSite-Weekly",
+        "description": "Weekly leads from broken local websites.",
+        "url": "https://github.com/michaelcolenso/BrokenSite-Weekly",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "updated": "2026-06-07T10:16:27Z",
+        "topics": []
+      },
+      {
+        "name": "recall-radar",
+        "description": "Help vehicle owners quickly find and understand safety recalls for their specific make/model/year, with LLM-enriched explanations that are easier to understand than raw NHTSA text.",
+        "url": "https://github.com/michaelcolenso/recall-radar",
+        "stars": 1,
+        "forks": 0,
+        "language": "TypeScript",
+        "updated": "2026-06-07T10:07:10Z",
+        "topics": [
+          "data",
+          "opendata",
+          "recalls"
+        ]
+      },
+      {
         "name": "codex-seo-machine",
         "description": "Seo machine for codex",
         "url": "https://github.com/michaelcolenso/codex-seo-machine",
@@ -74,36 +108,6 @@
         "forks": 0,
         "language": "Python",
         "updated": "2026-05-04T16:49:42Z",
-        "topics": []
-      },
-      {
-        "name": "seattlejoy",
-        "description": "maps about seattle and whatnot.",
-        "url": "https://github.com/michaelcolenso/seattlejoy",
-        "stars": 1,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-04-25T02:40:52Z",
-        "topics": []
-      },
-      {
-        "name": "work-in-place",
-        "description": null,
-        "url": "https://github.com/michaelcolenso/work-in-place",
-        "stars": 1,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-02-24T12:26:10Z",
-        "topics": []
-      },
-      {
-        "name": "client-facing-digital-work",
-        "description": "some stuff ive done on the internet for people",
-        "url": "https://github.com/michaelcolenso/client-facing-digital-work",
-        "stars": 1,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-02-24T12:07:28Z",
         "topics": []
       }
     ]
@@ -114,34 +118,34 @@
   },
   "recentActivity": [
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/nobodynamed-video",
-      "created": "2026-06-07T07:22:03Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/nobodynamed-video",
-      "created": "2026-06-07T07:21:36Z",
-      "action": "Created branch"
+      "type": "PushEvent",
+      "repo": "michaelcolenso/nursinghomegrade.com",
+      "created": "2026-06-07T12:32:33Z",
+      "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-06-07T07:01:44Z",
+      "created": "2026-06-07T12:22:24Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-06-07T07:01:42Z",
+      "created": "2026-06-07T12:22:23Z",
       "action": "merged pull request"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-06-07T07:00:13Z",
+      "created": "2026-06-07T12:19:13Z",
       "action": "opened pull request"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/nursinghomegrade.com",
+      "created": "2026-06-07T12:16:45Z",
+      "action": "Created branch"
     }
   ]
 }
