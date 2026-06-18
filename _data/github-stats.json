@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T07:47:06.566Z",
+  "lastUpdated": "2026-06-18T13:15:36.885Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 182,
     "totalStars": 83,
     "totalForks": 2,
-    "totalSize": 3176002,
+    "totalSize": 3176148,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,34 +118,34 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-06-18T12:31:32Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-06-18T12:31:33Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
       "type": "CreateEvent",
       "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-06-18T07:41:48Z",
+      "created": "2026-06-18T09:21:53Z",
       "action": "Created branch"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-06-16T03:24:58Z",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-06-18T09:17:20Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/wiki-pulse",
-      "created": "2026-06-15T09:01:50Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/wiki-pulse",
-      "created": "2026-06-15T08:46:10Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/wiki-pulse",
-      "created": "2026-06-15T08:25:12Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-06-18T09:17:19Z",
+      "action": "merged pull request"
     }
   ]
 }
