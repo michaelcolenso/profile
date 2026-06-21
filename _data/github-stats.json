@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T07:43:37.078Z",
+  "lastUpdated": "2026-06-21T12:45:13.454Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,32 +7,32 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 182,
+    "publicRepos": 183,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 182,
+    "total": 183,
     "totalStars": 83,
     "totalForks": 2,
-    "totalSize": 3176437,
+    "totalSize": 3176465,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 48,
-        "percentage": "26.4"
+        "percentage": "26.2"
       },
       {
         "name": "Python",
         "count": 28,
-        "percentage": "15.4"
+        "percentage": "15.3"
       },
       {
         "name": "TypeScript",
         "count": 18,
-        "percentage": "9.9"
+        "percentage": "9.8"
       },
       {
         "name": "Ruby",
@@ -119,6 +119,12 @@
   "recentActivity": [
     {
       "type": "PushEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-06-21T12:13:21Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
       "repo": "michaelcolenso/babynames",
       "created": "2026-06-21T07:20:06Z",
       "action": "Pushed undefined commit(s)"
@@ -140,12 +146,6 @@
       "repo": "michaelcolenso/buildingseattle",
       "created": "2026-06-20T21:52:08Z",
       "action": "labeled pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-06-20T21:52:08Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
