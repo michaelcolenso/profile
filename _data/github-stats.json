@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T01:01:23.526Z",
+  "lastUpdated": "2026-06-21T07:43:37.078Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 182,
     "totalStars": 83,
     "totalForks": 2,
-    "totalSize": 3176435,
+    "totalSize": 3176437,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -119,6 +119,18 @@
   "recentActivity": [
     {
       "type": "PushEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-06-21T07:20:06Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-06-21T07:17:56Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
       "repo": "michaelcolenso/buildingseattle",
       "created": "2026-06-20T21:52:54Z",
       "action": "Pushed undefined commit(s)"
@@ -134,18 +146,6 @@
       "repo": "michaelcolenso/buildingseattle",
       "created": "2026-06-20T21:52:08Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-06-20T21:52:05Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "DeleteEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-06-20T20:37:38Z",
-      "action": "DeleteEvent"
     }
   ]
 }
