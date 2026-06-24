@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T00:49:16.203Z",
+  "lastUpdated": "2026-06-24T07:16:52.969Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,27 +7,27 @@
     "location": "Seattle, WA",
     "followers": 24,
     "following": 44,
-    "publicRepos": 183,
+    "publicRepos": 184,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 183,
+    "total": 184,
     "totalStars": 83,
     "totalForks": 2,
-    "totalSize": 3176885,
+    "totalSize": 3176608,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 49,
-        "percentage": "26.8"
+        "percentage": "26.6"
       },
       {
         "name": "Python",
-        "count": 28,
-        "percentage": "15.3"
+        "count": 29,
+        "percentage": "15.8"
       },
       {
         "name": "TypeScript",
@@ -67,6 +67,16 @@
         "topics": []
       },
       {
+        "name": "codex-seo-machine",
+        "description": "Seo machine for codex",
+        "url": "https://github.com/michaelcolenso/codex-seo-machine",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "updated": "2026-06-24T06:21:51Z",
+        "topics": []
+      },
+      {
         "name": "nursinghomegrade.com",
         "description": "nursing home grades. ",
         "url": "https://github.com/michaelcolenso/nursinghomegrade.com",
@@ -99,16 +109,6 @@
         "language": "Python",
         "updated": "2026-06-07T10:16:27Z",
         "topics": []
-      },
-      {
-        "name": "codex-seo-machine",
-        "description": "Seo machine for codex",
-        "url": "https://github.com/michaelcolenso/codex-seo-machine",
-        "stars": 1,
-        "forks": 0,
-        "language": "Python",
-        "updated": "2026-05-04T16:49:42Z",
-        "topics": []
       }
     ]
   },
@@ -118,33 +118,33 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/seo-arbitrage-machine",
+      "created": "2026-06-24T07:00:42Z",
+      "action": "merged pull request"
+    },
+    {
       "type": "PushEvent",
-      "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-06-24T00:29:26Z",
+      "repo": "michaelcolenso/seo-arbitrage-machine",
+      "created": "2026-06-24T07:00:43Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/seo-arbitrage-machine",
+      "created": "2026-06-24T06:32:32Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-06-21T14:52:02Z",
-      "action": "labeled pull request"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-06-22T07:20:53Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/ground-zero",
-      "created": "2026-06-21T21:44:26Z",
-      "action": "Created branch"
+      "repo": "michaelcolenso/seo-arbitrage-machine",
+      "created": "2026-06-24T06:22:59Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/ground-zero",
-      "created": "2026-06-21T20:46:59Z",
+      "repo": "michaelcolenso/seo-arbitrage-machine",
+      "created": "2026-06-24T06:23:00Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
