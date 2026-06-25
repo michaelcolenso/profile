@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T12:52:04.809Z",
+  "lastUpdated": "2026-06-25T18:49:04.802Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 185,
     "totalStars": 83,
     "totalForks": 2,
-    "totalSize": 3176782,
+    "totalSize": 3176783,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,6 +118,18 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-06-18T09:22:07Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-06-18T07:42:14Z",
+      "action": "opened pull request"
+    },
+    {
       "type": "PushEvent",
       "repo": "michaelcolenso/babynames",
       "created": "2026-06-25T05:06:42Z",
@@ -134,18 +146,6 @@
       "repo": "michaelcolenso/babynames",
       "created": "2026-06-25T05:05:42Z",
       "action": "opened pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "TimeMagazineLabs/babynames",
-      "created": "2026-06-25T05:05:30Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-06-25T05:04:49Z",
-      "action": "Created branch"
     }
   ]
 }
