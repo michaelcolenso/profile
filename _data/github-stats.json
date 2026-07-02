@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T18:43:14.401Z",
+  "lastUpdated": "2026-07-02T00:53:11.592Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 185,
     "totalStars": 83,
     "totalForks": 2,
-    "totalSize": 3176925,
+    "totalSize": 3177045,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -67,14 +67,18 @@
         "topics": []
       },
       {
-        "name": "codex-seo-machine",
-        "description": "Seo machine for codex",
-        "url": "https://github.com/michaelcolenso/codex-seo-machine",
+        "name": "recall-radar",
+        "description": "Help vehicle owners quickly find and understand safety recalls for their specific make/model/year, with LLM-enriched explanations that are easier to understand than raw NHTSA text.",
+        "url": "https://github.com/michaelcolenso/recall-radar",
         "stars": 1,
         "forks": 0,
-        "language": "Python",
-        "updated": "2026-06-24T06:21:51Z",
-        "topics": []
+        "language": "TypeScript",
+        "updated": "2026-07-01T22:11:28Z",
+        "topics": [
+          "data",
+          "opendata",
+          "recalls"
+        ]
       },
       {
         "name": "nursinghomegrade.com",
@@ -83,22 +87,18 @@
         "stars": 1,
         "forks": 0,
         "language": "TypeScript",
-        "updated": "2026-06-24T00:29:29Z",
+        "updated": "2026-07-01T21:33:21Z",
         "topics": []
       },
       {
-        "name": "recall-radar",
-        "description": "Help vehicle owners quickly find and understand safety recalls for their specific make/model/year, with LLM-enriched explanations that are easier to understand than raw NHTSA text.",
-        "url": "https://github.com/michaelcolenso/recall-radar",
+        "name": "codex-seo-machine",
+        "description": "Seo machine for codex",
+        "url": "https://github.com/michaelcolenso/codex-seo-machine",
         "stars": 1,
         "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-06-12T05:11:09Z",
-        "topics": [
-          "data",
-          "opendata",
-          "recalls"
-        ]
+        "language": "Python",
+        "updated": "2026-06-24T06:21:51Z",
+        "topics": []
       },
       {
         "name": "BrokenSite-Weekly",
@@ -118,34 +118,34 @@
   },
   "recentActivity": [
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/seo-arbitrage-machine",
-      "created": "2026-07-01T08:42:43Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/seo-arbitrage-machine",
-      "created": "2026-07-01T08:42:22Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-07-01T22:20:07Z",
+      "action": "Created branch"
     },
     {
       "type": "PullRequestEvent",
-      "repo": "michaelcolenso/seo-arbitrage-machine",
-      "created": "2026-07-01T08:42:21Z",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-07-01T22:11:23Z",
       "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/seo-arbitrage-machine",
-      "created": "2026-07-01T07:50:50Z",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-07-01T22:11:24Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/seo-arbitrage-machine",
-      "created": "2026-07-01T07:43:08Z",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-07-01T22:06:42Z",
       "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-07-01T21:51:43Z",
+      "action": "opened pull request"
     }
   ]
 }
