@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T02:36:00.795Z",
+  "lastUpdated": "2026-07-29T08:39:43.615Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 187,
     "totalStars": 86,
     "totalForks": 2,
-    "totalSize": 3372419,
+    "totalSize": 3372636,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,34 +118,34 @@
   },
   "recentActivity": [
     {
-      "type": "PullRequestReviewCommentEvent",
+      "type": "IssueCommentEvent",
       "repo": "michaelcolenso/babynames",
-      "created": "2026-07-29T01:59:33Z",
-      "action": "PullRequestReviewCommentEvent"
-    },
-    {
-      "type": "PullRequestReviewEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-07-29T01:59:33Z",
-      "action": "Reviewed pull request"
+      "created": "2026-07-29T06:44:06Z",
+      "action": "Commented on issue"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/babynames",
-      "created": "2026-07-29T01:59:21Z",
+      "created": "2026-07-29T06:41:45Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "PullRequestEvent",
+      "type": "IssueCommentEvent",
       "repo": "michaelcolenso/babynames",
-      "created": "2026-07-29T01:54:35Z",
-      "action": "opened pull request"
+      "created": "2026-07-29T06:28:33Z",
+      "action": "Commented on issue"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/babynames",
-      "created": "2026-07-29T01:54:01Z",
+      "created": "2026-07-29T06:28:16Z",
       "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "IssueCommentEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-07-29T06:15:26Z",
+      "action": "Commented on issue"
     }
   ]
 }
