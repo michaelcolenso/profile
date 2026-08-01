@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T19:23:34.181Z",
+  "lastUpdated": "2026-08-01T02:46:31.340Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 187,
     "totalStars": 86,
     "totalForks": 2,
-    "totalSize": 3356945,
+    "totalSize": 3347442,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,33 +118,33 @@
   },
   "recentActivity": [
     {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-07-31T17:16:15Z",
-      "action": "labeled pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-07-31T17:16:15Z",
-      "action": "opened pull request"
-    },
-    {
       "type": "PushEvent",
       "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-07-31T17:16:14Z",
+      "created": "2026-07-31T21:14:34Z",
       "action": "Pushed undefined commit(s)"
     },
     {
-      "type": "CreateEvent",
+      "type": "PullRequestEvent",
       "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-07-31T17:16:12Z",
-      "action": "Created branch"
+      "created": "2026-07-31T21:14:33Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-07-31T16:40:44Z",
+      "created": "2026-07-31T21:14:08Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-07-31T21:13:14Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-07-31T21:13:15Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
