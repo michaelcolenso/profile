@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T02:29:33.033Z",
+  "lastUpdated": "2026-08-05T08:34:41.313Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 188,
     "totalStars": 86,
     "totalForks": 2,
-    "totalSize": 3224225,
+    "totalSize": 3224247,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -26,8 +26,8 @@
       },
       {
         "name": "Python",
-        "count": 30,
-        "percentage": "16.0"
+        "count": 31,
+        "percentage": "16.5"
       },
       {
         "name": "TypeScript",
@@ -118,34 +118,34 @@
   },
   "recentActivity": [
     {
-      "type": "PushEvent",
+      "type": "PullRequestEvent",
       "repo": "michaelcolenso/restricted-possibly",
-      "created": "2026-08-04T13:15:30Z",
-      "action": "Pushed undefined commit(s)"
+      "created": "2026-08-05T04:45:17Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/restricted-possibly",
-      "created": "2026-08-04T13:08:33Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/restricted-possibly",
-      "created": "2026-08-04T13:20:31Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/restricted-possibly",
-      "created": "2026-08-04T13:01:51Z",
+      "created": "2026-08-05T04:45:18Z",
       "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestReviewCommentEvent",
       "repo": "michaelcolenso/restricted-possibly",
-      "created": "2026-08-04T13:20:41Z",
+      "created": "2026-08-05T03:25:13Z",
       "action": "PullRequestReviewCommentEvent"
+    },
+    {
+      "type": "PullRequestReviewEvent",
+      "repo": "michaelcolenso/restricted-possibly",
+      "created": "2026-08-05T03:25:14Z",
+      "action": "Reviewed pull request"
+    },
+    {
+      "type": "PushEvent",
+      "repo": "michaelcolenso/restricted-possibly",
+      "created": "2026-08-05T03:25:02Z",
+      "action": "Pushed undefined commit(s)"
     }
   ]
 }
