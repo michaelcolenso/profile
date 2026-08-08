@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T01:37:35.446Z",
+  "lastUpdated": "2026-08-08T06:52:08.979Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 188,
     "totalStars": 86,
     "totalForks": 2,
-    "totalSize": 3225206,
+    "totalSize": 3225212,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -67,6 +67,20 @@
         "topics": []
       },
       {
+        "name": "recall-radar",
+        "description": "Help vehicle owners quickly find and understand safety recalls for their specific make/model/year, with LLM-enriched explanations that are easier to understand than raw NHTSA text.",
+        "url": "https://github.com/michaelcolenso/recall-radar",
+        "stars": 1,
+        "forks": 0,
+        "language": "TypeScript",
+        "updated": "2026-08-08T02:25:45Z",
+        "topics": [
+          "data",
+          "opendata",
+          "recalls"
+        ]
+      },
+      {
         "name": "nursinghomegrade.com",
         "description": "nursing home grades. ",
         "url": "https://github.com/michaelcolenso/nursinghomegrade.com",
@@ -87,20 +101,6 @@
         "topics": []
       },
       {
-        "name": "recall-radar",
-        "description": "Help vehicle owners quickly find and understand safety recalls for their specific make/model/year, with LLM-enriched explanations that are easier to understand than raw NHTSA text.",
-        "url": "https://github.com/michaelcolenso/recall-radar",
-        "stars": 1,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-07-20T04:56:54Z",
-        "topics": [
-          "data",
-          "opendata",
-          "recalls"
-        ]
-      },
-      {
         "name": "1033-Program-Map",
         "description": "Map and Vis of the 1033 Program",
         "url": "https://github.com/michaelcolenso/1033-Program-Map",
@@ -118,34 +118,34 @@
   },
   "recentActivity": [
     {
-      "type": "CreateEvent",
+      "type": "PushEvent",
       "repo": "michaelcolenso/recall-radar",
-      "created": "2026-08-07T05:29:41Z",
-      "action": "Created branch"
+      "created": "2026-08-08T02:25:41Z",
+      "action": "Pushed undefined commit(s)"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/recall-radar",
-      "created": "2026-08-07T05:29:49Z",
+      "created": "2026-08-08T02:25:40Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-08-08T02:25:32Z",
       "action": "opened pull request"
     },
     {
       "type": "CreateEvent",
       "repo": "michaelcolenso/recall-radar",
-      "created": "2026-08-07T05:26:26Z",
+      "created": "2026-08-08T02:25:25Z",
       "action": "Created branch"
     },
     {
-      "type": "PullRequestEvent",
+      "type": "PushEvent",
       "repo": "michaelcolenso/recall-radar",
-      "created": "2026-08-07T05:26:35Z",
-      "action": "opened pull request"
-    },
-    {
-      "type": "DeleteEvent",
-      "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-08-07T03:19:11Z",
-      "action": "DeleteEvent"
+      "created": "2026-08-08T02:14:51Z",
+      "action": "Pushed undefined commit(s)"
     }
   ]
 }
