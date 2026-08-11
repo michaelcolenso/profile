@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T13:03:32.903Z",
+  "lastUpdated": "2026-08-11T19:00:44.622Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -15,9 +15,9 @@
   },
   "repos": {
     "total": 188,
-    "totalStars": 86,
+    "totalStars": 87,
     "totalForks": 2,
-    "totalSize": 3225001,
+    "totalSize": 3225002,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -57,6 +57,20 @@
         "topics": []
       },
       {
+        "name": "recall-radar",
+        "description": "Help vehicle owners quickly find and understand safety recalls for their specific make/model/year, with LLM-enriched explanations that are easier to understand than raw NHTSA text.",
+        "url": "https://github.com/michaelcolenso/recall-radar",
+        "stars": 2,
+        "forks": 0,
+        "language": "TypeScript",
+        "updated": "2026-08-11T17:23:35Z",
+        "topics": [
+          "data",
+          "opendata",
+          "recalls"
+        ]
+      },
+      {
         "name": "ideas",
         "description": "digital products",
         "url": "https://github.com/michaelcolenso/ideas",
@@ -65,20 +79,6 @@
         "language": "TypeScript",
         "updated": "2026-07-18T03:03:08Z",
         "topics": []
-      },
-      {
-        "name": "recall-radar",
-        "description": "Help vehicle owners quickly find and understand safety recalls for their specific make/model/year, with LLM-enriched explanations that are easier to understand than raw NHTSA text.",
-        "url": "https://github.com/michaelcolenso/recall-radar",
-        "stars": 1,
-        "forks": 0,
-        "language": "TypeScript",
-        "updated": "2026-08-08T02:25:45Z",
-        "topics": [
-          "data",
-          "opendata",
-          "recalls"
-        ]
       },
       {
         "name": "nursinghomegrade.com",
