@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T06:53:42.377Z",
+  "lastUpdated": "2026-08-17T12:41:38.052Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 189,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 3228689,
+    "totalSize": 3228718,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,6 +118,18 @@
   },
   "recentActivity": [
     {
+      "type": "CreateEvent",
+      "repo": "michaelcolenso/factoreality",
+      "created": "2026-08-17T08:46:42Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/factoreality",
+      "created": "2026-08-17T08:47:04Z",
+      "action": "opened pull request"
+    },
+    {
       "type": "PushEvent",
       "repo": "michaelcolenso/Traffic-camera-feed",
       "created": "2026-08-17T05:08:27Z",
@@ -134,18 +146,6 @@
       "repo": "michaelcolenso/Traffic-camera-feed",
       "created": "2026-08-17T05:08:28Z",
       "action": "closed issue"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Traffic-camera-feed",
-      "created": "2026-08-17T05:07:35Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/Traffic-camera-feed",
-      "created": "2026-08-17T05:07:42Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
