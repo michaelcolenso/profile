@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T06:38:18.589Z",
+  "lastUpdated": "2026-08-22T12:36:52.708Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 189,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 3239703,
+    "totalSize": 3239732,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,34 +118,34 @@
   },
   "recentActivity": [
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-08-21T09:55:57Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "DeleteEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-08-21T09:59:52Z",
-      "action": "DeleteEvent"
-    },
-    {
-      "type": "PushEvent",
+      "type": "IssueCommentEvent",
       "repo": "michaelcolenso/babynames",
-      "created": "2026-08-21T09:59:47Z",
-      "action": "Pushed undefined commit(s)"
+      "created": "2026-08-22T12:33:37Z",
+      "action": "Commented on issue"
     },
     {
-      "type": "DeleteEvent",
-      "repo": "michaelcolenso/recall-radar",
-      "created": "2026-08-21T09:59:44Z",
-      "action": "DeleteEvent"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-08-22T12:33:17Z",
+      "action": "closed pull request"
     },
     {
-      "type": "DeleteEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-08-21T10:03:45Z",
-      "action": "DeleteEvent"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-08-22T12:33:17Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-08-22T12:33:06Z",
+      "action": "closed pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-08-22T12:33:06Z",
+      "action": "opened pull request"
     }
   ]
 }
