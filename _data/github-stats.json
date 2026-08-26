@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T18:37:58.383Z",
+  "lastUpdated": "2026-08-26T01:15:59.596Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 189,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 3241432,
+    "totalSize": 3241435,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -63,7 +63,7 @@
         "stars": 2,
         "forks": 0,
         "language": "TypeScript",
-        "updated": "2026-08-21T09:59:47Z",
+        "updated": "2026-08-25T18:44:45Z",
         "topics": [
           "data",
           "opendata",
@@ -118,6 +118,12 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/recall-radar",
+      "created": "2026-08-25T18:41:49Z",
+      "action": "merged pull request"
+    },
+    {
       "type": "CreateEvent",
       "repo": "michaelcolenso/recall-radar",
       "created": "2026-08-25T16:37:43Z",
@@ -139,12 +145,6 @@
       "type": "PushEvent",
       "repo": "michaelcolenso/babynames",
       "created": "2026-08-24T23:29:59Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-08-24T23:29:41Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
