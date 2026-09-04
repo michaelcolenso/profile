@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-09-04T10:42:55.110Z",
+  "lastUpdated": "2026-09-04T15:50:40.649Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
     "bio": "enthusiastic participant.",
     "location": "Seattle, WA",
-    "followers": 25,
+    "followers": 26,
     "following": 44,
     "publicRepos": 189,
     "publicGists": 70,
@@ -17,7 +17,7 @@
     "total": 189,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 3242616,
+    "totalSize": 3242617,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -119,6 +119,12 @@
   "recentActivity": [
     {
       "type": "PushEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-09-03T04:25:34Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PushEvent",
       "repo": "michaelcolenso/nursinghomegrade.com",
       "created": "2026-09-02T00:34:12Z",
       "action": "Pushed undefined commit(s)"
@@ -140,12 +146,6 @@
       "repo": "michaelcolenso/chet-lemon",
       "created": "2026-09-02T02:58:34Z",
       "action": "merged pull request"
-    },
-    {
-      "type": "PullRequestEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-08-31T10:18:34Z",
-      "action": "opened pull request"
     }
   ]
 }
