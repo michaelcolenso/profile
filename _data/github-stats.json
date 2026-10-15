@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-15T16:24:19.952Z",
+  "lastUpdated": "2026-10-15T20:58:53.519Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 190,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 3404741,
+    "totalSize": 3404990,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,6 +118,18 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-10-15T18:16:20Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-10-15T18:09:38Z",
+      "action": "opened pull request"
+    },
+    {
       "type": "PushEvent",
       "repo": "michaelcolenso/wiki-pulse",
       "created": "2026-10-13T23:02:37Z",
@@ -134,18 +146,6 @@
       "repo": "michaelcolenso/BrokenSite-Weekly",
       "created": "2026-10-15T09:02:47Z",
       "action": "opened pull request"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/nursinghomegrade.com",
-      "created": "2026-10-13T20:25:28Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-10-12T22:45:57Z",
-      "action": "Pushed undefined commit(s)"
     }
   ]
 }
