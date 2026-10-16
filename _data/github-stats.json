@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-16T03:22:56.331Z",
+  "lastUpdated": "2026-10-16T10:48:33.290Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,42 +7,42 @@
     "location": "Seattle, WA",
     "followers": 28,
     "following": 44,
-    "publicRepos": 190,
+    "publicRepos": 192,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 190,
+    "total": 192,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 3404992,
+    "totalSize": 3405031,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 49,
-        "percentage": "25.8"
+        "percentage": "25.5"
       },
       {
         "name": "Python",
-        "count": 32,
-        "percentage": "16.8"
+        "count": 34,
+        "percentage": "17.7"
       },
       {
         "name": "TypeScript",
         "count": 21,
-        "percentage": "11.1"
+        "percentage": "10.9"
       },
       {
         "name": "Ruby",
         "count": 15,
-        "percentage": "7.9"
+        "percentage": "7.8"
       },
       {
         "name": "HTML",
         "count": 11,
-        "percentage": "5.8"
+        "percentage": "5.7"
       }
     ],
     "featured": [
