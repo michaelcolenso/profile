@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T03:13:16.122Z",
+  "lastUpdated": "2026-10-17T10:13:35.081Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,32 +7,32 @@
     "location": "Seattle, WA",
     "followers": 28,
     "following": 44,
-    "publicRepos": 192,
+    "publicRepos": 193,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 192,
+    "total": 193,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 3405034,
+    "totalSize": 3405038,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 49,
-        "percentage": "25.5"
+        "percentage": "25.4"
       },
       {
         "name": "Python",
         "count": 34,
-        "percentage": "17.7"
+        "percentage": "17.6"
       },
       {
         "name": "TypeScript",
-        "count": 21,
-        "percentage": "10.9"
+        "count": 22,
+        "percentage": "11.4"
       },
       {
         "name": "Ruby",
@@ -118,33 +118,33 @@
   },
   "recentActivity": [
     {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/photo-critique-lab",
+      "created": "2026-10-17T09:58:48Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/photo-critique-lab",
+      "created": "2026-10-17T09:43:54Z",
+      "action": "merged pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/photo-critique-lab",
+      "created": "2026-10-17T09:43:38Z",
+      "action": "opened pull request"
+    },
+    {
       "type": "CreateEvent",
+      "repo": "michaelcolenso/MergerLedger",
+      "created": "2026-10-16T03:58:04Z",
+      "action": "Created branch"
+    },
+    {
+      "type": "PushEvent",
       "repo": "michaelcolenso/babynames",
-      "created": "2026-10-15T18:09:26Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/MergerLedger",
-      "created": "2026-10-16T03:59:01Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/MergerLedger",
-      "created": "2026-10-16T03:58:39Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/balancebill",
-      "created": "2026-10-16T04:00:19Z",
-      "action": "Created branch"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/MergerLedger",
-      "created": "2026-10-16T03:59:04Z",
+      "created": "2026-10-15T18:16:22Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
