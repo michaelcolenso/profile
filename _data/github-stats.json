@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T03:39:16.581Z",
+  "lastUpdated": "2026-10-20T10:59:13.870Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 193,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 3412669,
+    "totalSize": 3412785,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,34 +118,34 @@
   },
   "recentActivity": [
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-10-18T08:25:27Z",
-      "action": "Created branch"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/photo-critique-lab",
+      "created": "2026-10-20T06:09:38Z",
+      "action": "merged pull request"
     },
     {
       "type": "PushEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-10-19T04:23:16Z",
+      "repo": "michaelcolenso/photo-critique-lab",
+      "created": "2026-10-20T06:09:39Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/babynames",
-      "created": "2026-10-19T09:08:43Z",
-      "action": "Created branch"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/babynames",
-      "created": "2026-10-19T09:08:57Z",
-      "action": "opened pull request"
+      "created": "2026-10-20T05:12:50Z",
+      "action": "merged pull request"
     },
     {
-      "type": "WatchEvent",
-      "repo": "ahujasid/mcp-for-blender",
-      "created": "2026-10-19T05:11:04Z",
-      "action": "Starred repository"
+      "type": "PushEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-10-20T05:11:25Z",
+      "action": "Pushed undefined commit(s)"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/babynames",
+      "created": "2026-10-20T05:11:23Z",
+      "action": "merged pull request"
     }
   ]
 }
