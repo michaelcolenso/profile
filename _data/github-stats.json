@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T21:02:54.928Z",
+  "lastUpdated": "2026-10-24T03:30:26.819Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 194,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 4126364,
+    "totalSize": 4126365,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,6 +118,12 @@
   },
   "recentActivity": [
     {
+      "type": "IssueCommentEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-10-22T22:15:24Z",
+      "action": "Commented on issue"
+    },
+    {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/blender-models",
       "created": "2026-10-23T20:11:48Z",
@@ -139,12 +145,6 @@
       "type": "PushEvent",
       "repo": "michaelcolenso/buildingseattle",
       "created": "2026-10-22T18:43:16Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-10-22T18:35:21Z",
       "action": "Pushed undefined commit(s)"
     }
   ]
