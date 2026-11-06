@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T13:48:42.408Z",
+  "lastUpdated": "2026-11-06T22:45:13.847Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -17,7 +17,7 @@
     "total": 194,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 4270597,
+    "totalSize": 4291386,
     "topLanguages": [
       {
         "name": "JavaScript",
@@ -118,34 +118,34 @@
   },
   "recentActivity": [
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-11-05T05:11:49Z",
-      "action": "Created branch"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/blender-models",
+      "created": "2026-11-06T20:50:37Z",
+      "action": "merged pull request"
     },
     {
       "type": "PullRequestEvent",
       "repo": "michaelcolenso/blender-models",
-      "created": "2026-11-06T05:09:13Z",
+      "created": "2026-11-06T20:36:39Z",
+      "action": "opened pull request"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-11-06T19:28:29Z",
       "action": "merged pull request"
     },
     {
-      "type": "CreateEvent",
-      "repo": "michaelcolenso/blender-models",
-      "created": "2026-11-06T02:17:00Z",
-      "action": "Created branch"
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-11-06T19:26:38Z",
+      "action": "opened pull request"
     },
     {
       "type": "PushEvent",
       "repo": "michaelcolenso/blender-models",
-      "created": "2026-11-05T03:21:56Z",
+      "created": "2026-11-05T19:02:20Z",
       "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "PullRequestReviewCommentEvent",
-      "repo": "michaelcolenso/blender-models",
-      "created": "2026-11-06T02:23:02Z",
-      "action": "PullRequestReviewCommentEvent"
     }
   ]
 }
