@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T04:44:07.967Z",
+  "lastUpdated": "2026-11-08T12:50:35.009Z",
   "user": {
     "login": "michaelcolenso",
     "name": "michael colenso",
@@ -7,32 +7,32 @@
     "location": "Seattle, WA",
     "followers": 29,
     "following": 44,
-    "publicRepos": 194,
+    "publicRepos": 195,
     "publicGists": 70,
     "avatarUrl": "https://avatars.githubusercontent.com/u/778365?v=4",
     "profileUrl": "https://github.com/michaelcolenso",
     "createdAt": "2011-05-10T05:16:25Z"
   },
   "repos": {
-    "total": 194,
+    "total": 195,
     "totalStars": 88,
     "totalForks": 2,
-    "totalSize": 4301063,
+    "totalSize": 4301809,
     "topLanguages": [
       {
         "name": "JavaScript",
         "count": 49,
-        "percentage": "25.3"
+        "percentage": "25.1"
       },
       {
         "name": "Python",
         "count": 34,
-        "percentage": "17.5"
+        "percentage": "17.4"
       },
       {
         "name": "TypeScript",
-        "count": 22,
-        "percentage": "11.3"
+        "count": 23,
+        "percentage": "11.8"
       },
       {
         "name": "Ruby",
@@ -118,34 +118,34 @@
   },
   "recentActivity": [
     {
-      "type": "PushEvent",
+      "type": "PullRequestEvent",
       "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-11-07T09:40:24Z",
-      "action": "Pushed undefined commit(s)"
-    },
-    {
-      "type": "DeleteEvent",
-      "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-11-07T04:52:19Z",
-      "action": "DeleteEvent"
+      "created": "2026-11-08T12:49:07Z",
+      "action": "merged pull request"
     },
     {
       "type": "CreateEvent",
       "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-11-07T09:49:10Z",
+      "created": "2026-11-06T19:26:23Z",
       "action": "Created branch"
     },
     {
-      "type": "PushEvent",
+      "type": "CreateEvent",
       "repo": "michaelcolenso/buildingseattle",
-      "created": "2026-11-07T04:51:12Z",
-      "action": "Pushed undefined commit(s)"
+      "created": "2026-11-08T09:51:57Z",
+      "action": "Created branch"
     },
     {
-      "type": "PushEvent",
-      "repo": "michaelcolenso/blender-models",
-      "created": "2026-11-07T09:31:15Z",
-      "action": "Pushed undefined commit(s)"
+      "type": "IssueCommentEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-11-08T09:53:51Z",
+      "action": "Commented on issue"
+    },
+    {
+      "type": "PullRequestEvent",
+      "repo": "michaelcolenso/buildingseattle",
+      "created": "2026-11-08T09:52:07Z",
+      "action": "opened pull request"
     }
   ]
 }
